@@ -1,0 +1,262 @@
+// MediQueue — local MVP data model (MySQL 8 via Prisma 6).
+// Status fields are strings validated by the service layer (see src/domain/types.ts).
+// All DateTime values are stored in UTC. `serviceDate` is the clinic-local day (YYYY-MM-DD).
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+model Clinic {
+  id                    String   @id @default(uuid())
+  name                  String
+  timezone              String   @default("Asia/Kolkata")
+  /// Number of scheduled patients called before one walk-in when both groups wait (2 = 2:1 policy)
+  walkInRatio           Int      @default(2)
+  /// Minutes after slot start before a BOOKED appointment may be marked NO_SHOW without override
+  graceMinutes          Int      @default(15)
+  /// Minutes after slot start after which a check-in is flagged late and needs a reason
+  lateAfterMinutes      Int      @default(15)
+  autoNoShow            Boolean  @default(false)
+  defaultConsultMinutes Int      @default(12)
+  bookingHorizonDays    Int      @default(14)
+  createdAt             DateTime @default(now())
+  updatedAt             DateTime @updatedAt
+
+  users   User[]
+  doctors Doctor[]
+}
+
+model User {
+  id           String   @id @default(uuid())
+  email        String   @unique
+  passwordHash String
+  name         String
+  phone        String?
+  /// Small profile photo as a data URL (client-resized, ≤ 200 KB). Null = initials avatar.
+  avatarUrl    String?  @db.MediumText
+  role         String // PATIENT | RECEPTIONIST | DOCTOR | ADMIN
+  clinicId     String
+  isActive     Boolean  @default(true)
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+
+  clinic        Clinic         @relation(fields: [clinicId], references: [id])
+  doctor        Doctor?
+  sessions      Session[]
+  appointments  Appointment[]
+  tickets       QueueTicket[]
+  notifications Notification[]
+  auditEvents   AuditEvent[]
+
+  @@index([clinicId, role])
+}
+
+model Session {
+  /// sha256 of the opaque session token held in the HttpOnly cookie
+  id        String   @id
+  userId    String
+  expiresAt DateTime
+  createdAt DateTime @default(now())
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId])
+}
+
+model Doctor {
+  id         String   @id @default(uuid())
+  userId     String   @unique
+  clinicId   String
+  code       String // D01, D02 … used as token prefix
+  department String
+  room       String
+  avgMinutes Int      @default(12)
+  status     String   @default("ACTIVE") // ACTIVE | INACTIVE
+  bio        String?  @db.Text
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+
+  user          User               @relation(fields: [userId], references: [id])
+  clinic        Clinic             @relation(fields: [clinicId], references: [id])
+  slots         Slot[]
+  appointments  Appointment[]
+  tickets       QueueTicket[]
+  consultations Consultation[]
+  counters      QueueCounter[]
+  queueStates   DoctorQueueState[]
+
+  @@unique([clinicId, code])
+}
+
+model Slot {
+  id            String   @id @default(uuid())
+  doctorId      String
+  serviceDate   String   @db.VarChar(10)
+  startAt       DateTime
+  endAt         DateTime
+  capacity      Int      @default(1)
+  reservedCount Int      @default(0)
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+
+  doctor       Doctor        @relation(fields: [doctorId], references: [id])
+  appointments Appointment[]
+
+  @@unique([doctorId, startAt])
+  @@index([doctorId, serviceDate])
+}
+
+model Appointment {
+  id                 String    @id @default(uuid())
+  patientId          String
+  doctorId           String
+  slotId             String
+  serviceDate        String    @db.VarChar(10)
+  status             String // BOOKED | CHECKED_IN | CANCELLED | NO_SHOW | COMPLETED
+  bookedAt           DateTime  @default(now())
+  checkedInAt        DateTime?
+  cancelledAt        DateTime?
+  cancelReason       String?   @db.Text
+  cancelledById      String?
+  noShowAt           DateTime?
+  completedAt        DateTime?
+  lateOverrideReason String?   @db.Text
+  createdAt          DateTime  @default(now())
+  updatedAt          DateTime  @updatedAt
+
+  patient User         @relation(fields: [patientId], references: [id])
+  doctor  Doctor       @relation(fields: [doctorId], references: [id])
+  slot    Slot         @relation(fields: [slotId], references: [id])
+  ticket  QueueTicket?
+
+  @@index([patientId, serviceDate])
+  @@index([doctorId, serviceDate])
+  @@index([slotId])
+}
+
+model QueueCounter {
+  doctorId    String
+  serviceDate String @db.VarChar(10)
+  lastNumber  Int    @default(0)
+
+  doctor Doctor @relation(fields: [doctorId], references: [id])
+
+  @@id([doctorId, serviceDate])
+}
+
+model DoctorQueueState {
+  doctorId          String
+  serviceDate       String    @db.VarChar(10)
+  appointmentStreak Int       @default(0)
+  activeTicketId    String?
+  paused            Boolean   @default(false)
+  pauseReason       String?   @db.Text
+  pausedAt          DateTime?
+  updatedAt         DateTime  @updatedAt
+
+  doctor Doctor @relation(fields: [doctorId], references: [id])
+
+  @@id([doctorId, serviceDate])
+}
+
+model QueueTicket {
+  id               String    @id @default(uuid())
+  doctorId         String
+  serviceDate      String    @db.VarChar(10)
+  tokenNumber      Int
+  tokenLabel       String
+  patientId        String
+  appointmentId    String?   @unique
+  source           String // SCHEDULED | WALK_IN
+  status           String // WAITING | CALLED | IN_CONSULTATION | COMPLETED | CANCELLED | SKIPPED
+  scheduledAt      DateTime?
+  checkedInAt      DateTime
+  calledAt         DateTime?
+  startedAt        DateTime?
+  completedAt      DateTime?
+  isLate           Boolean   @default(false)
+  /// ETA snapshot taken at check-in, used only for prediction-error evaluation
+  predictedWaitSec Int?
+  /// Fixed-duration baseline prediction at check-in (default minutes × patients ahead)
+  baselineWaitSec  Int?
+  statusReason     String?   @db.Text
+  createdAt        DateTime  @default(now())
+  updatedAt        DateTime  @updatedAt
+
+  doctor       Doctor        @relation(fields: [doctorId], references: [id])
+  patient      User          @relation(fields: [patientId], references: [id])
+  appointment  Appointment?  @relation(fields: [appointmentId], references: [id])
+  consultation Consultation?
+
+  @@unique([doctorId, serviceDate, tokenNumber])
+  @@index([doctorId, serviceDate, status])
+  @@index([patientId, serviceDate])
+}
+
+model Consultation {
+  id            String    @id @default(uuid())
+  queueTicketId String    @unique
+  doctorId      String
+  startedAt     DateTime
+  endedAt       DateTime?
+  durationSec   Int?
+  createdAt     DateTime  @default(now())
+
+  ticket QueueTicket @relation(fields: [queueTicketId], references: [id])
+  doctor Doctor      @relation(fields: [doctorId], references: [id])
+
+  @@index([doctorId, endedAt])
+}
+
+model Notification {
+  id        String    @id @default(uuid())
+  userId    String
+  kind      String
+  title     String
+  message   String    @db.Text
+  readAt    DateTime?
+  createdAt DateTime  @default(now())
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId, createdAt])
+}
+
+model AuditEvent {
+  id         String   @id @default(uuid())
+  actorId    String?
+  actorRole  String?
+  action     String
+  entityType String
+  entityId   String
+  reason     String?  @db.Text
+  beforeJson String?  @db.Text
+  afterJson  String?  @db.Text
+  at         DateTime @default(now())
+
+  actor User? @relation(fields: [actorId], references: [id])
+
+  @@index([at])
+  @@index([action, at])
+  @@index([entityType, entityId])
+}
+
+model IdempotencyRecord {
+  id           String   @id @default(uuid())
+  key          String
+  userId       String
+  route        String
+  requestHash  String
+  responseCode Int
+  responseJson String   @db.MediumText
+  createdAt    DateTime @default(now())
+  expiresAt    DateTime
+
+  @@unique([userId, route, key])
+  @@index([expiresAt])
+}

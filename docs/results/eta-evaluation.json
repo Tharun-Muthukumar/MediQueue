@@ -1,0 +1,7863 @@
+{
+  "seed": 4242,
+  "sessions": 30,
+  "maeModel": 5.4354288027332105,
+  "maeBase": 6.3010490938799695,
+  "samples": 1122,
+  "rows": [
+    {
+      "doctor": "D01",
+      "session": 1,
+      "predicted": 7.733333333333333,
+      "baseline": 12,
+      "actual": 6.0251
+    },
+    {
+      "doctor": "D01",
+      "session": 1,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 1,
+      "predicted": 1.9833333333333334,
+      "baseline": 12,
+      "actual": 8.379533333333333
+    },
+    {
+      "doctor": "D01",
+      "session": 1,
+      "predicted": 13.15,
+      "baseline": 24,
+      "actual": 13.43035
+    },
+    {
+      "doctor": "D01",
+      "session": 1,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 1,
+      "predicted": 8.883333333333333,
+      "baseline": 12,
+      "actual": 13.054416666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 1,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 1,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 1,
+      "predicted": 11.233333333333333,
+      "baseline": 12,
+      "actual": 22.848016666666666
+    },
+    {
+      "doctor": "D01",
+      "session": 1,
+      "predicted": 9.983333333333333,
+      "baseline": 12,
+      "actual": 5.62955
+    },
+    {
+      "doctor": "D01",
+      "session": 2,
+      "predicted": 1.4,
+      "baseline": 1.4,
+      "actual": 1.9016333333333333
+    },
+    {
+      "doctor": "D01",
+      "session": 2,
+      "predicted": 13.3,
+      "baseline": 13.333333333333334,
+      "actual": 16.310416666666665
+    },
+    {
+      "doctor": "D01",
+      "session": 2,
+      "predicted": 17.75,
+      "baseline": 24,
+      "actual": 21.393016666666668
+    },
+    {
+      "doctor": "D01",
+      "session": 2,
+      "predicted": 12.716666666666667,
+      "baseline": 12,
+      "actual": 18.858716666666666
+    },
+    {
+      "doctor": "D01",
+      "session": 2,
+      "predicted": 30.116666666666667,
+      "baseline": 36,
+      "actual": 40.59855
+    },
+    {
+      "doctor": "D01",
+      "session": 2,
+      "predicted": 37.583333333333336,
+      "baseline": 36,
+      "actual": 38.49908333333333
+    },
+    {
+      "doctor": "D01",
+      "session": 2,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 2,
+      "predicted": 1.5333333333333334,
+      "baseline": 12,
+      "actual": 2.259116666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 2,
+      "predicted": 5.683333333333334,
+      "baseline": 12,
+      "actual": 7.885816666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 2,
+      "predicted": 4.15,
+      "baseline": 12,
+      "actual": 5.74755
+    },
+    {
+      "doctor": "D01",
+      "session": 2,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 2,
+      "predicted": 24.933333333333334,
+      "baseline": 36,
+      "actual": 61.55368333333333
+    },
+    {
+      "doctor": "D01",
+      "session": 2,
+      "predicted": 22.7,
+      "baseline": 24,
+      "actual": 25.900933333333334
+    },
+    {
+      "doctor": "D01",
+      "session": 3,
+      "predicted": 12.45,
+      "baseline": 12.45,
+      "actual": 12.950983333333333
+    },
+    {
+      "doctor": "D01",
+      "session": 3,
+      "predicted": 9.7,
+      "baseline": 12,
+      "actual": 3.4606333333333335
+    },
+    {
+      "doctor": "D01",
+      "session": 3,
+      "predicted": 21.816666666666666,
+      "baseline": 24,
+      "actual": 23.988716666666665
+    },
+    {
+      "doctor": "D01",
+      "session": 3,
+      "predicted": 14.533333333333333,
+      "baseline": 24,
+      "actual": 23.25348333333333
+    },
+    {
+      "doctor": "D01",
+      "session": 3,
+      "predicted": 25.8,
+      "baseline": 36,
+      "actual": 54.83936666666666
+    },
+    {
+      "doctor": "D01",
+      "session": 3,
+      "predicted": 26.55,
+      "baseline": 24,
+      "actual": 36.49198333333333
+    },
+    {
+      "doctor": "D01",
+      "session": 3,
+      "predicted": 26.766666666666666,
+      "baseline": 36,
+      "actual": 54.65748333333333
+    },
+    {
+      "doctor": "D01",
+      "session": 3,
+      "predicted": 45.166666666666664,
+      "baseline": 48,
+      "actual": 57.45
+    },
+    {
+      "doctor": "D01",
+      "session": 3,
+      "predicted": 39.63333333333333,
+      "baseline": 36,
+      "actual": 64.96635
+    },
+    {
+      "doctor": "D01",
+      "session": 3,
+      "predicted": 20.066666666666666,
+      "baseline": 24,
+      "actual": 41.6103
+    },
+    {
+      "doctor": "D01",
+      "session": 3,
+      "predicted": 29.6,
+      "baseline": 36,
+      "actual": 52.0915
+    },
+    {
+      "doctor": "D01",
+      "session": 3,
+      "predicted": 43.9,
+      "baseline": 48,
+      "actual": 66.49126666666666
+    },
+    {
+      "doctor": "D01",
+      "session": 3,
+      "predicted": 10.35,
+      "baseline": 12,
+      "actual": 11.164766666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 3,
+      "predicted": 15.833333333333334,
+      "baseline": 24,
+      "actual": 58.436883333333334
+    },
+    {
+      "doctor": "D01",
+      "session": 3,
+      "predicted": 9.283333333333333,
+      "baseline": 12,
+      "actual": 7.292583333333333
+    },
+    {
+      "doctor": "D01",
+      "session": 4,
+      "predicted": 16.783333333333335,
+      "baseline": 12,
+      "actual": 14.991033333333334
+    },
+    {
+      "doctor": "D01",
+      "session": 4,
+      "predicted": 24.833333333333332,
+      "baseline": 24,
+      "actual": 29.7411
+    },
+    {
+      "doctor": "D01",
+      "session": 4,
+      "predicted": 15.983333333333333,
+      "baseline": 12,
+      "actual": 33.691916666666664
+    },
+    {
+      "doctor": "D01",
+      "session": 4,
+      "predicted": 19.466666666666665,
+      "baseline": 24,
+      "actual": 11.959733333333334
+    },
+    {
+      "doctor": "D01",
+      "session": 4,
+      "predicted": 42.9,
+      "baseline": 36,
+      "actual": 27.1557
+    },
+    {
+      "doctor": "D01",
+      "session": 4,
+      "predicted": 26.066666666666666,
+      "baseline": 24,
+      "actual": 20.610266666666668
+    },
+    {
+      "doctor": "D01",
+      "session": 4,
+      "predicted": 16.2,
+      "baseline": 24,
+      "actual": 17.93235
+    },
+    {
+      "doctor": "D01",
+      "session": 4,
+      "predicted": 30.133333333333333,
+      "baseline": 36,
+      "actual": 41.59433333333333
+    },
+    {
+      "doctor": "D01",
+      "session": 4,
+      "predicted": 35.11666666666667,
+      "baseline": 36,
+      "actual": 33.80591666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 4,
+      "predicted": 37.36666666666667,
+      "baseline": 36,
+      "actual": 29.273333333333333
+    },
+    {
+      "doctor": "D01",
+      "session": 4,
+      "predicted": 45,
+      "baseline": 36,
+      "actual": 46.19075
+    },
+    {
+      "doctor": "D01",
+      "session": 4,
+      "predicted": 29.333333333333332,
+      "baseline": 24,
+      "actual": 36.0024
+    },
+    {
+      "doctor": "D01",
+      "session": 4,
+      "predicted": 29.433333333333334,
+      "baseline": 36,
+      "actual": 31.396566666666665
+    },
+    {
+      "doctor": "D01",
+      "session": 4,
+      "predicted": 3.35,
+      "baseline": 3.35,
+      "actual": 3.8560166666666666
+    },
+    {
+      "doctor": "D01",
+      "session": 4,
+      "predicted": 9.383333333333333,
+      "baseline": 12,
+      "actual": 10.969666666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 4,
+      "predicted": 33.11666666666667,
+      "baseline": 24,
+      "actual": 24.983766666666668
+    },
+    {
+      "doctor": "D01",
+      "session": 4,
+      "predicted": 15.383333333333333,
+      "baseline": 12,
+      "actual": 15.780083333333334
+    },
+    {
+      "doctor": "D01",
+      "session": 5,
+      "predicted": 8.65,
+      "baseline": 8.65,
+      "actual": 9.147533333333334
+    },
+    {
+      "doctor": "D01",
+      "session": 5,
+      "predicted": 11.233333333333333,
+      "baseline": 12,
+      "actual": 9.984533333333333
+    },
+    {
+      "doctor": "D01",
+      "session": 5,
+      "predicted": 25.133333333333333,
+      "baseline": 24,
+      "actual": 22.472016666666665
+    },
+    {
+      "doctor": "D01",
+      "session": 5,
+      "predicted": 25.45,
+      "baseline": 24,
+      "actual": 18.702066666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 5,
+      "predicted": 13.283333333333333,
+      "baseline": 12,
+      "actual": 19.790816666666668
+    },
+    {
+      "doctor": "D01",
+      "session": 5,
+      "predicted": 17.216666666666665,
+      "baseline": 24,
+      "actual": 20.713633333333334
+    },
+    {
+      "doctor": "D01",
+      "session": 5,
+      "predicted": 34.1,
+      "baseline": 36,
+      "actual": 29.889616666666665
+    },
+    {
+      "doctor": "D01",
+      "session": 5,
+      "predicted": 4.433333333333334,
+      "baseline": 12,
+      "actual": 11.570933333333333
+    },
+    {
+      "doctor": "D01",
+      "session": 5,
+      "predicted": 11.7,
+      "baseline": 24,
+      "actual": 25.23995
+    },
+    {
+      "doctor": "D01",
+      "session": 5,
+      "predicted": 12.683333333333334,
+      "baseline": 24,
+      "actual": 19.113316666666666
+    },
+    {
+      "doctor": "D01",
+      "session": 5,
+      "predicted": 3.2333333333333334,
+      "baseline": 12,
+      "actual": 7.971816666666666
+    },
+    {
+      "doctor": "D01",
+      "session": 5,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 5,
+      "predicted": 27.083333333333332,
+      "baseline": 24,
+      "actual": 50.5724
+    },
+    {
+      "doctor": "D01",
+      "session": 5,
+      "predicted": 14.85,
+      "baseline": 12,
+      "actual": 15.60445
+    },
+    {
+      "doctor": "D01",
+      "session": 5,
+      "predicted": 39.53333333333333,
+      "baseline": 36,
+      "actual": 53.538016666666664
+    },
+    {
+      "doctor": "D01",
+      "session": 5,
+      "predicted": 21.05,
+      "baseline": 24,
+      "actual": 45.933
+    },
+    {
+      "doctor": "D01",
+      "session": 6,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 6,
+      "predicted": 5.683333333333334,
+      "baseline": 12,
+      "actual": 7.351983333333333
+    },
+    {
+      "doctor": "D01",
+      "session": 6,
+      "predicted": 5.6,
+      "baseline": 12,
+      "actual": 3.0269333333333335
+    },
+    {
+      "doctor": "D01",
+      "session": 6,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 6,
+      "predicted": 2.566666666666667,
+      "baseline": 12,
+      "actual": 4.139616666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 6,
+      "predicted": 1.0666666666666667,
+      "baseline": 12,
+      "actual": 8.688883333333333
+    },
+    {
+      "doctor": "D01",
+      "session": 6,
+      "predicted": 13.283333333333333,
+      "baseline": 12,
+      "actual": 16.44665
+    },
+    {
+      "doctor": "D01",
+      "session": 6,
+      "predicted": 13.55,
+      "baseline": 24,
+      "actual": 28.814383333333332
+    },
+    {
+      "doctor": "D01",
+      "session": 6,
+      "predicted": 13.8,
+      "baseline": 24,
+      "actual": 12.72575
+    },
+    {
+      "doctor": "D01",
+      "session": 6,
+      "predicted": 23.733333333333334,
+      "baseline": 24,
+      "actual": 18.54065
+    },
+    {
+      "doctor": "D01",
+      "session": 6,
+      "predicted": 9.283333333333333,
+      "baseline": 12,
+      "actual": 7.4698166666666665
+    },
+    {
+      "doctor": "D01",
+      "session": 6,
+      "predicted": 9.916666666666666,
+      "baseline": 12,
+      "actual": 11.172016666666666
+    },
+    {
+      "doctor": "D01",
+      "session": 6,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 6,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 1.7978666666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 6,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 0.6173666666666666
+    },
+    {
+      "doctor": "D01",
+      "session": 7,
+      "predicted": 11.6,
+      "baseline": 11.6,
+      "actual": 12.105216666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 7,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 7,
+      "predicted": 14.2,
+      "baseline": 12,
+      "actual": 13.312133333333334
+    },
+    {
+      "doctor": "D01",
+      "session": 7,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 7,
+      "predicted": 14.25,
+      "baseline": 24,
+      "actual": 12.427666666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 7,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 7,
+      "predicted": 9.516666666666667,
+      "baseline": 12,
+      "actual": 11.700083333333334
+    },
+    {
+      "doctor": "D01",
+      "session": 7,
+      "predicted": 11.516666666666667,
+      "baseline": 12,
+      "actual": 10.1175
+    },
+    {
+      "doctor": "D01",
+      "session": 7,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 7,
+      "predicted": 8.65,
+      "baseline": 12,
+      "actual": 11.682916666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 7,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 7,
+      "predicted": 9.916666666666666,
+      "baseline": 12,
+      "actual": 6.11265
+    },
+    {
+      "doctor": "D01",
+      "session": 7,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 8,
+      "predicted": 14.666666666666666,
+      "baseline": 14.666666666666666,
+      "actual": 15.168283333333333
+    },
+    {
+      "doctor": "D01",
+      "session": 8,
+      "predicted": 3.6333333333333333,
+      "baseline": 12,
+      "actual": 8.039466666666666
+    },
+    {
+      "doctor": "D01",
+      "session": 8,
+      "predicted": 3.966666666666667,
+      "baseline": 12,
+      "actual": 7.922466666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 8,
+      "predicted": 16.55,
+      "baseline": 24,
+      "actual": 16.591966666666668
+    },
+    {
+      "doctor": "D01",
+      "session": 8,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 8,
+      "predicted": 7.283333333333333,
+      "baseline": 12,
+      "actual": 8.131666666666666
+    },
+    {
+      "doctor": "D01",
+      "session": 8,
+      "predicted": 14.3,
+      "baseline": 12,
+      "actual": 13.98105
+    },
+    {
+      "doctor": "D01",
+      "session": 8,
+      "predicted": 22.05,
+      "baseline": 24,
+      "actual": 21.712483333333335
+    },
+    {
+      "doctor": "D01",
+      "session": 8,
+      "predicted": 15.116666666666667,
+      "baseline": 24,
+      "actual": 15.466683333333334
+    },
+    {
+      "doctor": "D01",
+      "session": 8,
+      "predicted": 17.416666666666668,
+      "baseline": 24,
+      "actual": 24.366183333333332
+    },
+    {
+      "doctor": "D01",
+      "session": 8,
+      "predicted": 17.2,
+      "baseline": 24,
+      "actual": 14.211766666666668
+    },
+    {
+      "doctor": "D01",
+      "session": 8,
+      "predicted": 27,
+      "baseline": 24,
+      "actual": 17.85086666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 8,
+      "predicted": 34.86666666666667,
+      "baseline": 36,
+      "actual": 28.89913333333333
+    },
+    {
+      "doctor": "D01",
+      "session": 8,
+      "predicted": 11.583333333333334,
+      "baseline": 12,
+      "actual": 10.085616666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 8,
+      "predicted": 16.883333333333333,
+      "baseline": 24,
+      "actual": 32.24628333333333
+    },
+    {
+      "doctor": "D01",
+      "session": 8,
+      "predicted": 25.233333333333334,
+      "baseline": 24,
+      "actual": 52.96086666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 8,
+      "predicted": 46.61666666666667,
+      "baseline": 48,
+      "actual": 82.01858333333334
+    },
+    {
+      "doctor": "D01",
+      "session": 9,
+      "predicted": 9.733333333333333,
+      "baseline": 9.733333333333333,
+      "actual": 10.225016666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 9,
+      "predicted": 12.516666666666667,
+      "baseline": 12,
+      "actual": 13.3403
+    },
+    {
+      "doctor": "D01",
+      "session": 9,
+      "predicted": 15.466666666666667,
+      "baseline": 24,
+      "actual": 21.096916666666665
+    },
+    {
+      "doctor": "D01",
+      "session": 9,
+      "predicted": 5.333333333333333,
+      "baseline": 12,
+      "actual": 10.304333333333334
+    },
+    {
+      "doctor": "D01",
+      "session": 9,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 9,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 9,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 9,
+      "predicted": 12,
+      "baseline": 12,
+      "actual": 11.067433333333334
+    },
+    {
+      "doctor": "D01",
+      "session": 9,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 9,
+      "predicted": 19.916666666666668,
+      "baseline": 24,
+      "actual": 26.29245
+    },
+    {
+      "doctor": "D01",
+      "session": 10,
+      "predicted": 1.6666666666666667,
+      "baseline": 1.6666666666666667,
+      "actual": 2.17085
+    },
+    {
+      "doctor": "D01",
+      "session": 10,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 10,
+      "predicted": 7.9,
+      "baseline": 12,
+      "actual": 23.15915
+    },
+    {
+      "doctor": "D01",
+      "session": 10,
+      "predicted": 20.25,
+      "baseline": 24,
+      "actual": 28.475666666666665
+    },
+    {
+      "doctor": "D01",
+      "session": 10,
+      "predicted": 13,
+      "baseline": 12,
+      "actual": 27.156616666666668
+    },
+    {
+      "doctor": "D01",
+      "session": 10,
+      "predicted": 20.533333333333335,
+      "baseline": 24,
+      "actual": 20.514366666666668
+    },
+    {
+      "doctor": "D01",
+      "session": 10,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 10.155666666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 10,
+      "predicted": 12.733333333333333,
+      "baseline": 24,
+      "actual": 31.69595
+    },
+    {
+      "doctor": "D01",
+      "session": 10,
+      "predicted": 23.1,
+      "baseline": 24,
+      "actual": 24.123283333333333
+    },
+    {
+      "doctor": "D01",
+      "session": 10,
+      "predicted": 12.25,
+      "baseline": 12,
+      "actual": 9.7673
+    },
+    {
+      "doctor": "D01",
+      "session": 10,
+      "predicted": 7.583333333333333,
+      "baseline": 12,
+      "actual": 11.047633333333334
+    },
+    {
+      "doctor": "D01",
+      "session": 10,
+      "predicted": 6.1,
+      "baseline": 12,
+      "actual": 9.589683333333333
+    },
+    {
+      "doctor": "D01",
+      "session": 10,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 1.78705
+    },
+    {
+      "doctor": "D01",
+      "session": 10,
+      "predicted": 2.4833333333333334,
+      "baseline": 12,
+      "actual": 1.3523166666666666
+    },
+    {
+      "doctor": "D01",
+      "session": 11,
+      "predicted": 23.55,
+      "baseline": 23.55,
+      "actual": 24.055616666666666
+    },
+    {
+      "doctor": "D01",
+      "session": 11,
+      "predicted": 10.8,
+      "baseline": 12,
+      "actual": 19.553483333333332
+    },
+    {
+      "doctor": "D01",
+      "session": 11,
+      "predicted": 15.75,
+      "baseline": 24,
+      "actual": 28.045333333333332
+    },
+    {
+      "doctor": "D01",
+      "session": 11,
+      "predicted": 19.983333333333334,
+      "baseline": 24,
+      "actual": 24.121233333333333
+    },
+    {
+      "doctor": "D01",
+      "session": 11,
+      "predicted": 39.35,
+      "baseline": 48,
+      "actual": 62.405433333333335
+    },
+    {
+      "doctor": "D01",
+      "session": 11,
+      "predicted": 9.6,
+      "baseline": 12,
+      "actual": 8.114966666666668
+    },
+    {
+      "doctor": "D01",
+      "session": 11,
+      "predicted": 18.816666666666666,
+      "baseline": 24,
+      "actual": 14.769983333333334
+    },
+    {
+      "doctor": "D01",
+      "session": 11,
+      "predicted": 12.75,
+      "baseline": 12,
+      "actual": 7.1398166666666665
+    },
+    {
+      "doctor": "D01",
+      "session": 11,
+      "predicted": 18.733333333333334,
+      "baseline": 24,
+      "actual": 17.000816666666665
+    },
+    {
+      "doctor": "D01",
+      "session": 11,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 11,
+      "predicted": 12.683333333333334,
+      "baseline": 12,
+      "actual": 17.23518333333333
+    },
+    {
+      "doctor": "D01",
+      "session": 11,
+      "predicted": 29.016666666666666,
+      "baseline": 36,
+      "actual": 33.954233333333335
+    },
+    {
+      "doctor": "D01",
+      "session": 11,
+      "predicted": 45.9,
+      "baseline": 48,
+      "actual": 89.68805
+    },
+    {
+      "doctor": "D01",
+      "session": 11,
+      "predicted": 19.583333333333332,
+      "baseline": 24,
+      "actual": 39.26225
+    },
+    {
+      "doctor": "D01",
+      "session": 11,
+      "predicted": 39.03333333333333,
+      "baseline": 36,
+      "actual": 68.98416666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 12,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 12,
+      "predicted": 1.55,
+      "baseline": 12,
+      "actual": 3.9107
+    },
+    {
+      "doctor": "D01",
+      "session": 12,
+      "predicted": 12.466666666666667,
+      "baseline": 12,
+      "actual": 9.498883333333334
+    },
+    {
+      "doctor": "D01",
+      "session": 12,
+      "predicted": 23.083333333333332,
+      "baseline": 24,
+      "actual": 18.709216666666666
+    },
+    {
+      "doctor": "D01",
+      "session": 12,
+      "predicted": 9.866666666666667,
+      "baseline": 12,
+      "actual": 23.711466666666666
+    },
+    {
+      "doctor": "D01",
+      "session": 12,
+      "predicted": 12.283333333333333,
+      "baseline": 24,
+      "actual": 15.726433333333333
+    },
+    {
+      "doctor": "D01",
+      "session": 12,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 2.54815
+    },
+    {
+      "doctor": "D01",
+      "session": 12,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 12,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 12,
+      "predicted": 13.916666666666666,
+      "baseline": 12,
+      "actual": 31.003033333333335
+    },
+    {
+      "doctor": "D01",
+      "session": 12,
+      "predicted": 3.15,
+      "baseline": 12,
+      "actual": 2.83205
+    },
+    {
+      "doctor": "D01",
+      "session": 12,
+      "predicted": 16.9,
+      "baseline": 24,
+      "actual": 37.62266666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 12,
+      "predicted": 18.133333333333333,
+      "baseline": 24,
+      "actual": 41.121633333333335
+    },
+    {
+      "doctor": "D01",
+      "session": 13,
+      "predicted": 7.766666666666667,
+      "baseline": 7.766666666666667,
+      "actual": 8.259683333333333
+    },
+    {
+      "doctor": "D01",
+      "session": 13,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 13,
+      "predicted": 4.8,
+      "baseline": 12,
+      "actual": 4.973433333333333
+    },
+    {
+      "doctor": "D01",
+      "session": 13,
+      "predicted": 3.466666666666667,
+      "baseline": 12,
+      "actual": 7.047983333333334
+    },
+    {
+      "doctor": "D01",
+      "session": 13,
+      "predicted": 11.733333333333333,
+      "baseline": 24,
+      "actual": 16.457133333333335
+    },
+    {
+      "doctor": "D01",
+      "session": 13,
+      "predicted": 11.833333333333334,
+      "baseline": 24,
+      "actual": 20.11875
+    },
+    {
+      "doctor": "D01",
+      "session": 13,
+      "predicted": 22.666666666666668,
+      "baseline": 36,
+      "actual": 32.12923333333333
+    },
+    {
+      "doctor": "D01",
+      "session": 13,
+      "predicted": 14.383333333333333,
+      "baseline": 24,
+      "actual": 15.895583333333333
+    },
+    {
+      "doctor": "D01",
+      "session": 13,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 13,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 13,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 13,
+      "predicted": 3.9833333333333334,
+      "baseline": 12,
+      "actual": 35.41575
+    },
+    {
+      "doctor": "D01",
+      "session": 13,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 13,
+      "predicted": 7.416666666666667,
+      "baseline": 12,
+      "actual": 8.6521
+    },
+    {
+      "doctor": "D01",
+      "session": 13,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 14,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 14,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 14,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 14,
+      "predicted": 7.483333333333333,
+      "baseline": 12,
+      "actual": 6.689883333333333
+    },
+    {
+      "doctor": "D01",
+      "session": 14,
+      "predicted": 14.466666666666667,
+      "baseline": 24,
+      "actual": 14.460616666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 14,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 14,
+      "predicted": 19.566666666666666,
+      "baseline": 24,
+      "actual": 16.57395
+    },
+    {
+      "doctor": "D01",
+      "session": 14,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 11.938516666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 14,
+      "predicted": 10.65,
+      "baseline": 24,
+      "actual": 16.992166666666666
+    },
+    {
+      "doctor": "D01",
+      "session": 14,
+      "predicted": 11.583333333333334,
+      "baseline": 24,
+      "actual": 14.843883333333334
+    },
+    {
+      "doctor": "D01",
+      "session": 14,
+      "predicted": 11.183333333333334,
+      "baseline": 12,
+      "actual": 10.436066666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 14,
+      "predicted": 7.566666666666666,
+      "baseline": 12,
+      "actual": 16.568283333333333
+    },
+    {
+      "doctor": "D01",
+      "session": 14,
+      "predicted": 5.916666666666667,
+      "baseline": 12,
+      "actual": 4.1566
+    },
+    {
+      "doctor": "D01",
+      "session": 15,
+      "predicted": 2.316666666666667,
+      "baseline": 2.316666666666667,
+      "actual": 2.8091166666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 15,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 15,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 15,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 1.60415
+    },
+    {
+      "doctor": "D01",
+      "session": 15,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 15,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 15,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 15,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 3.6406
+    },
+    {
+      "doctor": "D01",
+      "session": 15,
+      "predicted": 5.783333333333333,
+      "baseline": 12,
+      "actual": 5.503166666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 15,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 15,
+      "predicted": 6.733333333333333,
+      "baseline": 6.733333333333333,
+      "actual": 14.518983333333333
+    },
+    {
+      "doctor": "D01",
+      "session": 15,
+      "predicted": 2.566666666666667,
+      "baseline": 12,
+      "actual": 9.697283333333333
+    },
+    {
+      "doctor": "D01",
+      "session": 16,
+      "predicted": 21.183333333333334,
+      "baseline": 21.183333333333334,
+      "actual": 21.68645
+    },
+    {
+      "doctor": "D01",
+      "session": 16,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 1.1325
+    },
+    {
+      "doctor": "D01",
+      "session": 16,
+      "predicted": 2.15,
+      "baseline": 12,
+      "actual": 11.856116666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 16,
+      "predicted": 12.65,
+      "baseline": 24,
+      "actual": 24.265966666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 16,
+      "predicted": 11.933333333333334,
+      "baseline": 24,
+      "actual": 26.71175
+    },
+    {
+      "doctor": "D01",
+      "session": 16,
+      "predicted": 23.583333333333332,
+      "baseline": 24,
+      "actual": 33.17765
+    },
+    {
+      "doctor": "D01",
+      "session": 16,
+      "predicted": 32.483333333333334,
+      "baseline": 36,
+      "actual": 41.16556666666666
+    },
+    {
+      "doctor": "D01",
+      "session": 16,
+      "predicted": 21.933333333333334,
+      "baseline": 24,
+      "actual": 17.50965
+    },
+    {
+      "doctor": "D01",
+      "session": 16,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 2.4716666666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 16,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 7.335983333333333
+    },
+    {
+      "doctor": "D01",
+      "session": 16,
+      "predicted": 12.316666666666666,
+      "baseline": 24,
+      "actual": 21.395616666666665
+    },
+    {
+      "doctor": "D01",
+      "session": 16,
+      "predicted": 16.35,
+      "baseline": 17.65,
+      "actual": 16.560933333333335
+    },
+    {
+      "doctor": "D01",
+      "session": 16,
+      "predicted": 3.0166666666666666,
+      "baseline": 12,
+      "actual": 37.542766666666665
+    },
+    {
+      "doctor": "D01",
+      "session": 17,
+      "predicted": 13.966666666666667,
+      "baseline": 12,
+      "actual": 14.218583333333333
+    },
+    {
+      "doctor": "D01",
+      "session": 17,
+      "predicted": 0.15,
+      "baseline": 0.15,
+      "actual": 0.6432166666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 17,
+      "predicted": 22.766666666666666,
+      "baseline": 24,
+      "actual": 19.3267
+    },
+    {
+      "doctor": "D01",
+      "session": 17,
+      "predicted": 2.8833333333333333,
+      "baseline": 12,
+      "actual": 4.776916666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 17,
+      "predicted": 28.766666666666666,
+      "baseline": 36,
+      "actual": 35.41408333333333
+    },
+    {
+      "doctor": "D01",
+      "session": 17,
+      "predicted": 19.816666666666666,
+      "baseline": 24,
+      "actual": 27.15605
+    },
+    {
+      "doctor": "D01",
+      "session": 17,
+      "predicted": 24.983333333333334,
+      "baseline": 24,
+      "actual": 24.009766666666668
+    },
+    {
+      "doctor": "D01",
+      "session": 17,
+      "predicted": 19.25,
+      "baseline": 24,
+      "actual": 25.3472
+    },
+    {
+      "doctor": "D01",
+      "session": 17,
+      "predicted": 23.833333333333332,
+      "baseline": 24,
+      "actual": 32.69651666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 17,
+      "predicted": 23.983333333333334,
+      "baseline": 24,
+      "actual": 20.189466666666668
+    },
+    {
+      "doctor": "D01",
+      "session": 17,
+      "predicted": 14.183333333333334,
+      "baseline": 24,
+      "actual": 15.0189
+    },
+    {
+      "doctor": "D01",
+      "session": 17,
+      "predicted": 20.433333333333334,
+      "baseline": 24,
+      "actual": 14.154683333333333
+    },
+    {
+      "doctor": "D01",
+      "session": 17,
+      "predicted": 3.4,
+      "baseline": 12,
+      "actual": 2.741633333333333
+    },
+    {
+      "doctor": "D01",
+      "session": 17,
+      "predicted": 3.95,
+      "baseline": 12,
+      "actual": 4.584766666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 17,
+      "predicted": 3.6333333333333333,
+      "baseline": 12,
+      "actual": 11.446
+    },
+    {
+      "doctor": "D01",
+      "session": 17,
+      "predicted": 23.483333333333334,
+      "baseline": 24,
+      "actual": 37.66673333333333
+    },
+    {
+      "doctor": "D01",
+      "session": 17,
+      "predicted": 8.716666666666667,
+      "baseline": 8.716666666666667,
+      "actual": 32.17151666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 18,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 18,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 18,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 18,
+      "predicted": 1.75,
+      "baseline": 12,
+      "actual": 1.6666
+    },
+    {
+      "doctor": "D01",
+      "session": 18,
+      "predicted": 6.8,
+      "baseline": 12,
+      "actual": 9.335966666666666
+    },
+    {
+      "doctor": "D01",
+      "session": 18,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 18,
+      "predicted": 8.65,
+      "baseline": 12,
+      "actual": 13.128766666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 18,
+      "predicted": 4.883333333333334,
+      "baseline": 12,
+      "actual": 4.272333333333333
+    },
+    {
+      "doctor": "D01",
+      "session": 18,
+      "predicted": 5.6,
+      "baseline": 12,
+      "actual": 9.133566666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 18,
+      "predicted": 2.283333333333333,
+      "baseline": 12,
+      "actual": 3.8019
+    },
+    {
+      "doctor": "D01",
+      "session": 18,
+      "predicted": 4.7,
+      "baseline": 12,
+      "actual": 4.548166666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 18,
+      "predicted": 10.083333333333334,
+      "baseline": 12,
+      "actual": 10.7281
+    },
+    {
+      "doctor": "D01",
+      "session": 18,
+      "predicted": 13.916666666666666,
+      "baseline": 24,
+      "actual": 25.7525
+    },
+    {
+      "doctor": "D01",
+      "session": 19,
+      "predicted": 5.266666666666667,
+      "baseline": 12,
+      "actual": 7.58025
+    },
+    {
+      "doctor": "D01",
+      "session": 19,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 19,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 19,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 19,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 19,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 19,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 19,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 19,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 19,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 19,
+      "predicted": 11.066666666666666,
+      "baseline": 12,
+      "actual": 9.699216666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 20,
+      "predicted": 11.65,
+      "baseline": 11.65,
+      "actual": 12.14545
+    },
+    {
+      "doctor": "D01",
+      "session": 20,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 20,
+      "predicted": 10.016666666666667,
+      "baseline": 12,
+      "actual": 33.72885
+    },
+    {
+      "doctor": "D01",
+      "session": 20,
+      "predicted": 12,
+      "baseline": 24,
+      "actual": 59.44846666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 20,
+      "predicted": 12.266666666666667,
+      "baseline": 24,
+      "actual": 23.497083333333332
+    },
+    {
+      "doctor": "D01",
+      "session": 20,
+      "predicted": 18.483333333333334,
+      "baseline": 24,
+      "actual": 22.18485
+    },
+    {
+      "doctor": "D01",
+      "session": 20,
+      "predicted": 16.583333333333332,
+      "baseline": 24,
+      "actual": 26.114433333333334
+    },
+    {
+      "doctor": "D01",
+      "session": 20,
+      "predicted": 24.1,
+      "baseline": 36,
+      "actual": 26.74455
+    },
+    {
+      "doctor": "D01",
+      "session": 20,
+      "predicted": 9.016666666666667,
+      "baseline": 12,
+      "actual": 9.323083333333333
+    },
+    {
+      "doctor": "D01",
+      "session": 20,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 20,
+      "predicted": 3.0833333333333335,
+      "baseline": 12,
+      "actual": 2.823366666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 20,
+      "predicted": 9.483333333333333,
+      "baseline": 12,
+      "actual": 11.978966666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 21,
+      "predicted": 5.333333333333333,
+      "baseline": 5.333333333333333,
+      "actual": 5.8402
+    },
+    {
+      "doctor": "D01",
+      "session": 21,
+      "predicted": 7.9,
+      "baseline": 12,
+      "actual": 10.758466666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 21,
+      "predicted": 13.816666666666666,
+      "baseline": 24,
+      "actual": 24.356233333333332
+    },
+    {
+      "doctor": "D01",
+      "session": 21,
+      "predicted": 19.233333333333334,
+      "baseline": 24,
+      "actual": 42.330333333333336
+    },
+    {
+      "doctor": "D01",
+      "session": 21,
+      "predicted": 28.5,
+      "baseline": 36,
+      "actual": 32.402766666666665
+    },
+    {
+      "doctor": "D01",
+      "session": 21,
+      "predicted": 38.46666666666667,
+      "baseline": 36,
+      "actual": 51.30195
+    },
+    {
+      "doctor": "D01",
+      "session": 21,
+      "predicted": 30.6,
+      "baseline": 36,
+      "actual": 23.6224
+    },
+    {
+      "doctor": "D01",
+      "session": 21,
+      "predicted": 31.183333333333334,
+      "baseline": 36,
+      "actual": 28.897966666666665
+    },
+    {
+      "doctor": "D01",
+      "session": 21,
+      "predicted": 27.483333333333334,
+      "baseline": 36,
+      "actual": 40.55506666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 21,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 21,
+      "predicted": 9.55,
+      "baseline": 12,
+      "actual": 9.895733333333334
+    },
+    {
+      "doctor": "D01",
+      "session": 21,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 7.1062
+    },
+    {
+      "doctor": "D01",
+      "session": 21,
+      "predicted": 18.65,
+      "baseline": 24,
+      "actual": 18.15125
+    },
+    {
+      "doctor": "D01",
+      "session": 21,
+      "predicted": 7.366666666666666,
+      "baseline": 12,
+      "actual": 6.488283333333333
+    },
+    {
+      "doctor": "D01",
+      "session": 21,
+      "predicted": 5.483333333333333,
+      "baseline": 12,
+      "actual": 5.35845
+    },
+    {
+      "doctor": "D01",
+      "session": 22,
+      "predicted": 8.05,
+      "baseline": 8.05,
+      "actual": 8.543233333333333
+    },
+    {
+      "doctor": "D01",
+      "session": 22,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 22,
+      "predicted": 14.266666666666667,
+      "baseline": 24,
+      "actual": 22.507933333333334
+    },
+    {
+      "doctor": "D01",
+      "session": 22,
+      "predicted": 23.233333333333334,
+      "baseline": 36,
+      "actual": 35.51945
+    },
+    {
+      "doctor": "D01",
+      "session": 22,
+      "predicted": 13.95,
+      "baseline": 24,
+      "actual": 25.86925
+    },
+    {
+      "doctor": "D01",
+      "session": 22,
+      "predicted": 20.4,
+      "baseline": 24,
+      "actual": 25.3071
+    },
+    {
+      "doctor": "D01",
+      "session": 22,
+      "predicted": 23.233333333333334,
+      "baseline": 36,
+      "actual": 25.731166666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 22,
+      "predicted": 16.466666666666665,
+      "baseline": 24,
+      "actual": 15.145816666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 22,
+      "predicted": 8,
+      "baseline": 12,
+      "actual": 7.800816666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 22,
+      "predicted": 12.4,
+      "baseline": 24,
+      "actual": 16.656333333333333
+    },
+    {
+      "doctor": "D01",
+      "session": 22,
+      "predicted": 20.116666666666667,
+      "baseline": 24,
+      "actual": 29.002683333333334
+    },
+    {
+      "doctor": "D01",
+      "session": 22,
+      "predicted": 23.233333333333334,
+      "baseline": 36,
+      "actual": 31.836366666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 22,
+      "predicted": 39.65,
+      "baseline": 36,
+      "actual": 37.92268333333333
+    },
+    {
+      "doctor": "D01",
+      "session": 22,
+      "predicted": 25.633333333333333,
+      "baseline": 24,
+      "actual": 17.571983333333332
+    },
+    {
+      "doctor": "D01",
+      "session": 22,
+      "predicted": 12.7,
+      "baseline": 12,
+      "actual": 10.70415
+    },
+    {
+      "doctor": "D01",
+      "session": 22,
+      "predicted": 34.35,
+      "baseline": 48,
+      "actual": 43.109566666666666
+    },
+    {
+      "doctor": "D01",
+      "session": 22,
+      "predicted": 11.833333333333334,
+      "baseline": 12,
+      "actual": 16.8199
+    },
+    {
+      "doctor": "D01",
+      "session": 22,
+      "predicted": 12.233333333333333,
+      "baseline": 24,
+      "actual": 22.1971
+    },
+    {
+      "doctor": "D01",
+      "session": 23,
+      "predicted": 2.966666666666667,
+      "baseline": 2.966666666666667,
+      "actual": 3.4659
+    },
+    {
+      "doctor": "D01",
+      "session": 23,
+      "predicted": 2.3666666666666667,
+      "baseline": 12,
+      "actual": 13.640883333333333
+    },
+    {
+      "doctor": "D01",
+      "session": 23,
+      "predicted": 23.933333333333334,
+      "baseline": 36,
+      "actual": 36.60026666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 23,
+      "predicted": 6.866666666666666,
+      "baseline": 12,
+      "actual": 12.3609
+    },
+    {
+      "doctor": "D01",
+      "session": 23,
+      "predicted": 22.683333333333334,
+      "baseline": 24,
+      "actual": 33.28098333333333
+    },
+    {
+      "doctor": "D01",
+      "session": 23,
+      "predicted": 25.883333333333333,
+      "baseline": 24,
+      "actual": 51.652366666666666
+    },
+    {
+      "doctor": "D01",
+      "session": 23,
+      "predicted": 45.833333333333336,
+      "baseline": 48,
+      "actual": 61.50966666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 23,
+      "predicted": 52.583333333333336,
+      "baseline": 48,
+      "actual": 56.6393
+    },
+    {
+      "doctor": "D01",
+      "session": 23,
+      "predicted": 77.2,
+      "baseline": 72,
+      "actual": 77.65575
+    },
+    {
+      "doctor": "D01",
+      "session": 23,
+      "predicted": 80.35,
+      "baseline": 72,
+      "actual": 75.84206666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 23,
+      "predicted": 56.18333333333333,
+      "baseline": 48,
+      "actual": 46.95856666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 23,
+      "predicted": 51.4,
+      "baseline": 48,
+      "actual": 44.73975
+    },
+    {
+      "doctor": "D01",
+      "session": 23,
+      "predicted": 15.216666666666667,
+      "baseline": 24,
+      "actual": 23.380483333333334
+    },
+    {
+      "doctor": "D01",
+      "session": 23,
+      "predicted": 55.95,
+      "baseline": 60,
+      "actual": 101.23416666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 23,
+      "predicted": 4.466666666666667,
+      "baseline": 4.466666666666667,
+      "actual": 44.18685
+    },
+    {
+      "doctor": "D01",
+      "session": 23,
+      "predicted": 27.033333333333335,
+      "baseline": 36,
+      "actual": 65.76521666666666
+    },
+    {
+      "doctor": "D01",
+      "session": 24,
+      "predicted": 15.216666666666667,
+      "baseline": 15.216666666666667,
+      "actual": 15.722033333333334
+    },
+    {
+      "doctor": "D01",
+      "session": 24,
+      "predicted": 3.4833333333333334,
+      "baseline": 12,
+      "actual": 2.9771833333333335
+    },
+    {
+      "doctor": "D01",
+      "session": 24,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 24,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 24,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 5.562766666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 24,
+      "predicted": 7.433333333333334,
+      "baseline": 12,
+      "actual": 1.84645
+    },
+    {
+      "doctor": "D01",
+      "session": 24,
+      "predicted": 11.516666666666667,
+      "baseline": 12,
+      "actual": 10.694383333333333
+    },
+    {
+      "doctor": "D01",
+      "session": 24,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 24,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 24,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 24,
+      "predicted": 10.333333333333334,
+      "baseline": 12,
+      "actual": 8.079033333333333
+    },
+    {
+      "doctor": "D01",
+      "session": 24,
+      "predicted": 1.3333333333333333,
+      "baseline": 12,
+      "actual": 12.643433333333334
+    },
+    {
+      "doctor": "D01",
+      "session": 24,
+      "predicted": 1.7833333333333334,
+      "baseline": 12,
+      "actual": 2.08755
+    },
+    {
+      "doctor": "D01",
+      "session": 24,
+      "predicted": 6.166666666666667,
+      "baseline": 12,
+      "actual": 5.655766666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 24,
+      "predicted": 11.6,
+      "baseline": 12,
+      "actual": 11.6247
+    },
+    {
+      "doctor": "D01",
+      "session": 25,
+      "predicted": 17.666666666666668,
+      "baseline": 17.666666666666668,
+      "actual": 18.16925
+    },
+    {
+      "doctor": "D01",
+      "session": 25,
+      "predicted": 3.6,
+      "baseline": 12,
+      "actual": 4.71435
+    },
+    {
+      "doctor": "D01",
+      "session": 25,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 25,
+      "predicted": 9.383333333333333,
+      "baseline": 12,
+      "actual": 21.8944
+    },
+    {
+      "doctor": "D01",
+      "session": 25,
+      "predicted": 13.366666666666667,
+      "baseline": 24,
+      "actual": 16.132866666666665
+    },
+    {
+      "doctor": "D01",
+      "session": 25,
+      "predicted": 9.3,
+      "baseline": 12,
+      "actual": 9.613283333333333
+    },
+    {
+      "doctor": "D01",
+      "session": 25,
+      "predicted": 9.916666666666666,
+      "baseline": 12,
+      "actual": 16.26275
+    },
+    {
+      "doctor": "D01",
+      "session": 25,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 25,
+      "predicted": 5.566666666666666,
+      "baseline": 12,
+      "actual": 4.53225
+    },
+    {
+      "doctor": "D01",
+      "session": 25,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 3.3162166666666666
+    },
+    {
+      "doctor": "D01",
+      "session": 25,
+      "predicted": 3.683333333333333,
+      "baseline": 12,
+      "actual": 10.05945
+    },
+    {
+      "doctor": "D01",
+      "session": 25,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 25,
+      "predicted": 2.3,
+      "baseline": 12,
+      "actual": 1.1154333333333333
+    },
+    {
+      "doctor": "D01",
+      "session": 26,
+      "predicted": 12.983333333333333,
+      "baseline": 12.983333333333333,
+      "actual": 13.477566666666666
+    },
+    {
+      "doctor": "D01",
+      "session": 26,
+      "predicted": 13.266666666666667,
+      "baseline": 12,
+      "actual": 10.969666666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 26,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 26,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 26,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 26,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 26,
+      "predicted": 12.416666666666666,
+      "baseline": 12,
+      "actual": 11.955166666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 26,
+      "predicted": 6.35,
+      "baseline": 12,
+      "actual": 12.237533333333333
+    },
+    {
+      "doctor": "D01",
+      "session": 26,
+      "predicted": 16.383333333333333,
+      "baseline": 24,
+      "actual": 26.596916666666665
+    },
+    {
+      "doctor": "D01",
+      "session": 26,
+      "predicted": 14.15,
+      "baseline": 24,
+      "actual": 21.577383333333334
+    },
+    {
+      "doctor": "D01",
+      "session": 26,
+      "predicted": 23.566666666666666,
+      "baseline": 36,
+      "actual": 24.716
+    },
+    {
+      "doctor": "D01",
+      "session": 26,
+      "predicted": 8.6,
+      "baseline": 12,
+      "actual": 10.739566666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 26,
+      "predicted": 12.183333333333334,
+      "baseline": 24,
+      "actual": 44.56571666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 26,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 26,
+      "predicted": 5.133333333333334,
+      "baseline": 12,
+      "actual": 9.093333333333334
+    },
+    {
+      "doctor": "D01",
+      "session": 27,
+      "predicted": 10.233333333333333,
+      "baseline": 12,
+      "actual": 11.050916666666666
+    },
+    {
+      "doctor": "D01",
+      "session": 27,
+      "predicted": 6,
+      "baseline": 12,
+      "actual": 4.7954
+    },
+    {
+      "doctor": "D01",
+      "session": 27,
+      "predicted": 1.2166666666666666,
+      "baseline": 12,
+      "actual": 8.8152
+    },
+    {
+      "doctor": "D01",
+      "session": 27,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 2.154933333333333
+    },
+    {
+      "doctor": "D01",
+      "session": 27,
+      "predicted": 3.7333333333333334,
+      "baseline": 12,
+      "actual": 10.725366666666666
+    },
+    {
+      "doctor": "D01",
+      "session": 27,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 27,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 27,
+      "predicted": 12.3,
+      "baseline": 12,
+      "actual": 18.182533333333332
+    },
+    {
+      "doctor": "D01",
+      "session": 27,
+      "predicted": 14.7,
+      "baseline": 24,
+      "actual": 19.51295
+    },
+    {
+      "doctor": "D01",
+      "session": 27,
+      "predicted": 21.166666666666668,
+      "baseline": 24,
+      "actual": 20.820016666666668
+    },
+    {
+      "doctor": "D01",
+      "session": 27,
+      "predicted": 17.683333333333334,
+      "baseline": 24,
+      "actual": 16.405366666666666
+    },
+    {
+      "doctor": "D01",
+      "session": 27,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 27,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 28,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 28,
+      "predicted": 7.666666666666667,
+      "baseline": 12,
+      "actual": 3.34495
+    },
+    {
+      "doctor": "D01",
+      "session": 28,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 28,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 28,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 28,
+      "predicted": 3.05,
+      "baseline": 12,
+      "actual": 1.4105333333333334
+    },
+    {
+      "doctor": "D01",
+      "session": 28,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 28,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 28,
+      "predicted": 9.55,
+      "baseline": 12,
+      "actual": 14.905966666666666
+    },
+    {
+      "doctor": "D01",
+      "session": 28,
+      "predicted": 5.8,
+      "baseline": 12,
+      "actual": 8.437783333333334
+    },
+    {
+      "doctor": "D01",
+      "session": 28,
+      "predicted": 14.2,
+      "baseline": 12,
+      "actual": 8.232366666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 28,
+      "predicted": 7.316666666666666,
+      "baseline": 7.316666666666666,
+      "actual": 7.820716666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 29,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 29,
+      "predicted": 1.1666666666666667,
+      "baseline": 12,
+      "actual": 1.9945166666666667
+    },
+    {
+      "doctor": "D01",
+      "session": 29,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 29,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 29,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 29,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 29,
+      "predicted": 18.283333333333335,
+      "baseline": 24,
+      "actual": 22.84765
+    },
+    {
+      "doctor": "D01",
+      "session": 29,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D01",
+      "session": 29,
+      "predicted": 13.466666666666667,
+      "baseline": 24,
+      "actual": 13.4761
+    },
+    {
+      "doctor": "D01",
+      "session": 29,
+      "predicted": 19.95,
+      "baseline": 24,
+      "actual": 43.35185
+    },
+    {
+      "doctor": "D01",
+      "session": 29,
+      "predicted": 1.0833333333333333,
+      "baseline": 12,
+      "actual": 3.15295
+    },
+    {
+      "doctor": "D01",
+      "session": 29,
+      "predicted": 18.616666666666667,
+      "baseline": 24,
+      "actual": 39.91258333333333
+    },
+    {
+      "doctor": "D01",
+      "session": 29,
+      "predicted": 8.766666666666667,
+      "baseline": 12,
+      "actual": 9.395416666666666
+    },
+    {
+      "doctor": "D02",
+      "session": 1,
+      "predicted": 15.05,
+      "baseline": 15.05,
+      "actual": 15.542016666666667
+    },
+    {
+      "doctor": "D02",
+      "session": 1,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 1.37765
+    },
+    {
+      "doctor": "D02",
+      "session": 1,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 1,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 1,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 1,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 1,
+      "predicted": 3.75,
+      "baseline": 12,
+      "actual": 3.881083333333333
+    },
+    {
+      "doctor": "D02",
+      "session": 1,
+      "predicted": 8.783333333333333,
+      "baseline": 12,
+      "actual": 8.640816666666666
+    },
+    {
+      "doctor": "D02",
+      "session": 1,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 1,
+      "predicted": 10.35,
+      "baseline": 13.65,
+      "actual": 20.0034
+    },
+    {
+      "doctor": "D02",
+      "session": 1,
+      "predicted": 5.05,
+      "baseline": 12,
+      "actual": 1.6873666666666667
+    },
+    {
+      "doctor": "D02",
+      "session": 1,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 1,
+      "predicted": 15.033333333333333,
+      "baseline": 24,
+      "actual": 19.50711666666667
+    },
+    {
+      "doctor": "D02",
+      "session": 2,
+      "predicted": 0.1,
+      "baseline": 0.1,
+      "actual": 0.5979833333333333
+    },
+    {
+      "doctor": "D02",
+      "session": 2,
+      "predicted": 3.816666666666667,
+      "baseline": 12,
+      "actual": 2.9278833333333334
+    },
+    {
+      "doctor": "D02",
+      "session": 2,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 2,
+      "predicted": 7.616666666666666,
+      "baseline": 12,
+      "actual": 10.789183333333334
+    },
+    {
+      "doctor": "D02",
+      "session": 2,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 7.2973
+    },
+    {
+      "doctor": "D02",
+      "session": 2,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 2,
+      "predicted": 4.783333333333333,
+      "baseline": 12,
+      "actual": 3.83135
+    },
+    {
+      "doctor": "D02",
+      "session": 2,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 2,
+      "predicted": 4.416666666666667,
+      "baseline": 12,
+      "actual": 8.0967
+    },
+    {
+      "doctor": "D02",
+      "session": 2,
+      "predicted": 4.133333333333334,
+      "baseline": 12,
+      "actual": 2.7286333333333332
+    },
+    {
+      "doctor": "D02",
+      "session": 2,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 2,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 2,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 4.053233333333333
+    },
+    {
+      "doctor": "D02",
+      "session": 3,
+      "predicted": 0.16666666666666666,
+      "baseline": 0.16666666666666666,
+      "actual": 0.6631833333333333
+    },
+    {
+      "doctor": "D02",
+      "session": 3,
+      "predicted": 1.6833333333333333,
+      "baseline": 1.6833333333333333,
+      "actual": 19.2639
+    },
+    {
+      "doctor": "D02",
+      "session": 3,
+      "predicted": 3.15,
+      "baseline": 12,
+      "actual": 7.252683333333334
+    },
+    {
+      "doctor": "D02",
+      "session": 3,
+      "predicted": 11.2,
+      "baseline": 24,
+      "actual": 17.01585
+    },
+    {
+      "doctor": "D02",
+      "session": 3,
+      "predicted": 5.466666666666667,
+      "baseline": 12,
+      "actual": 7.8037833333333335
+    },
+    {
+      "doctor": "D02",
+      "session": 3,
+      "predicted": 5.4,
+      "baseline": 12,
+      "actual": 7.898816666666667
+    },
+    {
+      "doctor": "D02",
+      "session": 3,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 3,
+      "predicted": 9.25,
+      "baseline": 12,
+      "actual": 9.600183333333334
+    },
+    {
+      "doctor": "D02",
+      "session": 3,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 3,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 3,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 3,
+      "predicted": 18.266666666666666,
+      "baseline": 36,
+      "actual": 39.19448333333333
+    },
+    {
+      "doctor": "D02",
+      "session": 3,
+      "predicted": 7.15,
+      "baseline": 12,
+      "actual": 29.283616666666667
+    },
+    {
+      "doctor": "D02",
+      "session": 3,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 3,
+      "predicted": 22.666666666666668,
+      "baseline": 36,
+      "actual": 34.7376
+    },
+    {
+      "doctor": "D02",
+      "session": 4,
+      "predicted": 6.6,
+      "baseline": 6.6,
+      "actual": 7.0981
+    },
+    {
+      "doctor": "D02",
+      "session": 4,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 4,
+      "predicted": 1.9166666666666667,
+      "baseline": 12,
+      "actual": 3.3872333333333335
+    },
+    {
+      "doctor": "D02",
+      "session": 4,
+      "predicted": 9.75,
+      "baseline": 24,
+      "actual": 20.203583333333334
+    },
+    {
+      "doctor": "D02",
+      "session": 4,
+      "predicted": 13.55,
+      "baseline": 24,
+      "actual": 18.8513
+    },
+    {
+      "doctor": "D02",
+      "session": 4,
+      "predicted": 6.033333333333333,
+      "baseline": 12,
+      "actual": 2.9901833333333334
+    },
+    {
+      "doctor": "D02",
+      "session": 4,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 4,
+      "predicted": 5.05,
+      "baseline": 12,
+      "actual": 4.640066666666667
+    },
+    {
+      "doctor": "D02",
+      "session": 4,
+      "predicted": 8.35,
+      "baseline": 12,
+      "actual": 4.413866666666666
+    },
+    {
+      "doctor": "D02",
+      "session": 4,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 4,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 4,
+      "predicted": 11.6,
+      "baseline": 24,
+      "actual": 24.62095
+    },
+    {
+      "doctor": "D02",
+      "session": 4,
+      "predicted": 5.733333333333333,
+      "baseline": 12,
+      "actual": 10.64785
+    },
+    {
+      "doctor": "D02",
+      "session": 4,
+      "predicted": 9.383333333333333,
+      "baseline": 12,
+      "actual": 7.805916666666667
+    },
+    {
+      "doctor": "D02",
+      "session": 4,
+      "predicted": 3.5,
+      "baseline": 12,
+      "actual": 2.164283333333333
+    },
+    {
+      "doctor": "D02",
+      "session": 5,
+      "predicted": 9.316666666666666,
+      "baseline": 9.316666666666666,
+      "actual": 9.812366666666666
+    },
+    {
+      "doctor": "D02",
+      "session": 5,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 5,
+      "predicted": 9.95,
+      "baseline": 24,
+      "actual": 9.9615
+    },
+    {
+      "doctor": "D02",
+      "session": 5,
+      "predicted": 9.95,
+      "baseline": 24,
+      "actual": 26.00055
+    },
+    {
+      "doctor": "D02",
+      "session": 5,
+      "predicted": 8.3,
+      "baseline": 12,
+      "actual": 8.287866666666666
+    },
+    {
+      "doctor": "D02",
+      "session": 5,
+      "predicted": 1.1,
+      "baseline": 12,
+      "actual": 7.32065
+    },
+    {
+      "doctor": "D02",
+      "session": 5,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 5,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 5,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 5,
+      "predicted": 3.9166666666666665,
+      "baseline": 12,
+      "actual": 5.174683333333333
+    },
+    {
+      "doctor": "D02",
+      "session": 5,
+      "predicted": 4.4,
+      "baseline": 12,
+      "actual": 10.752533333333334
+    },
+    {
+      "doctor": "D02",
+      "session": 5,
+      "predicted": 13.716666666666667,
+      "baseline": 24,
+      "actual": 16.151933333333332
+    },
+    {
+      "doctor": "D02",
+      "session": 6,
+      "predicted": 3.4166666666666665,
+      "baseline": 3.4166666666666665,
+      "actual": 3.9200333333333335
+    },
+    {
+      "doctor": "D02",
+      "session": 6,
+      "predicted": 8,
+      "baseline": 12,
+      "actual": 9.30355
+    },
+    {
+      "doctor": "D02",
+      "session": 6,
+      "predicted": 12.116666666666667,
+      "baseline": 24,
+      "actual": 19.728583333333333
+    },
+    {
+      "doctor": "D02",
+      "session": 6,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 6,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 6,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 6,
+      "predicted": 3.283333333333333,
+      "baseline": 12,
+      "actual": 0.8273666666666667
+    },
+    {
+      "doctor": "D02",
+      "session": 6,
+      "predicted": 4.366666666666666,
+      "baseline": 12,
+      "actual": 4.36605
+    },
+    {
+      "doctor": "D02",
+      "session": 6,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 6.375566666666667
+    },
+    {
+      "doctor": "D02",
+      "session": 6,
+      "predicted": 8.616666666666667,
+      "baseline": 12,
+      "actual": 9.565416666666666
+    },
+    {
+      "doctor": "D02",
+      "session": 6,
+      "predicted": 2.6666666666666665,
+      "baseline": 12,
+      "actual": 1.0248333333333333
+    },
+    {
+      "doctor": "D02",
+      "session": 6,
+      "predicted": 5.5,
+      "baseline": 12,
+      "actual": 15.315433333333333
+    },
+    {
+      "doctor": "D02",
+      "session": 6,
+      "predicted": 9.433333333333334,
+      "baseline": 12,
+      "actual": 16.353883333333332
+    },
+    {
+      "doctor": "D02",
+      "session": 6,
+      "predicted": 9.85,
+      "baseline": 24,
+      "actual": 37.981566666666666
+    },
+    {
+      "doctor": "D02",
+      "session": 7,
+      "predicted": 13.8,
+      "baseline": 13.8,
+      "actual": 14.30795
+    },
+    {
+      "doctor": "D02",
+      "session": 7,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 7,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 7,
+      "predicted": 8.633333333333333,
+      "baseline": 12,
+      "actual": 13.457866666666666
+    },
+    {
+      "doctor": "D02",
+      "session": 7,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 10.4614
+    },
+    {
+      "doctor": "D02",
+      "session": 7,
+      "predicted": 3.4833333333333334,
+      "baseline": 12,
+      "actual": 2.90845
+    },
+    {
+      "doctor": "D02",
+      "session": 7,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 7,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 7,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 7,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 7,
+      "predicted": 9.866666666666667,
+      "baseline": 24,
+      "actual": 8.951383333333334
+    },
+    {
+      "doctor": "D02",
+      "session": 8,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 8,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 8,
+      "predicted": 2.65,
+      "baseline": 12,
+      "actual": 1.4141666666666666
+    },
+    {
+      "doctor": "D02",
+      "session": 8,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 8,
+      "predicted": 10.283333333333333,
+      "baseline": 12,
+      "actual": 8.876683333333334
+    },
+    {
+      "doctor": "D02",
+      "session": 8,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 8,
+      "predicted": 9.95,
+      "baseline": 12,
+      "actual": 9.560483333333334
+    },
+    {
+      "doctor": "D02",
+      "session": 8,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 8,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 8,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 8,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 8,
+      "predicted": 4.333333333333333,
+      "baseline": 12,
+      "actual": 2.9768166666666667
+    },
+    {
+      "doctor": "D02",
+      "session": 9,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 9,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 9,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 9,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 9,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 9,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 9,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 9,
+      "predicted": 7.2,
+      "baseline": 12,
+      "actual": 6.044883333333333
+    },
+    {
+      "doctor": "D02",
+      "session": 9,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 9,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 9,
+      "predicted": 5.633333333333334,
+      "baseline": 12,
+      "actual": 14.68755
+    },
+    {
+      "doctor": "D02",
+      "session": 9,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 9,
+      "predicted": 6.65,
+      "baseline": 12,
+      "actual": 8.69935
+    },
+    {
+      "doctor": "D02",
+      "session": 9,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 10,
+      "predicted": 8.183333333333334,
+      "baseline": 8.183333333333334,
+      "actual": 8.678033333333333
+    },
+    {
+      "doctor": "D02",
+      "session": 10,
+      "predicted": 6.3,
+      "baseline": 12,
+      "actual": 6.043816666666666
+    },
+    {
+      "doctor": "D02",
+      "session": 10,
+      "predicted": 1.65,
+      "baseline": 12,
+      "actual": 3.26425
+    },
+    {
+      "doctor": "D02",
+      "session": 10,
+      "predicted": 5.483333333333333,
+      "baseline": 12,
+      "actual": 5.4781
+    },
+    {
+      "doctor": "D02",
+      "session": 10,
+      "predicted": 4.816666666666666,
+      "baseline": 12,
+      "actual": 8.949566666666666
+    },
+    {
+      "doctor": "D02",
+      "session": 10,
+      "predicted": 18.7,
+      "baseline": 36,
+      "actual": 26.45955
+    },
+    {
+      "doctor": "D02",
+      "session": 10,
+      "predicted": 13.85,
+      "baseline": 24,
+      "actual": 15.995566666666667
+    },
+    {
+      "doctor": "D02",
+      "session": 10,
+      "predicted": 20.416666666666668,
+      "baseline": 36,
+      "actual": 27.121933333333335
+    },
+    {
+      "doctor": "D02",
+      "session": 10,
+      "predicted": 15.8,
+      "baseline": 24,
+      "actual": 18.161183333333334
+    },
+    {
+      "doctor": "D02",
+      "session": 10,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 10,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 10,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 10,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 10,
+      "predicted": 9.116666666666667,
+      "baseline": 12,
+      "actual": 16.875533333333333
+    },
+    {
+      "doctor": "D02",
+      "session": 10,
+      "predicted": 13.166666666666666,
+      "baseline": 24,
+      "actual": 25.34251666666667
+    },
+    {
+      "doctor": "D02",
+      "session": 10,
+      "predicted": 12.683333333333334,
+      "baseline": 24,
+      "actual": 18.42945
+    },
+    {
+      "doctor": "D02",
+      "session": 10,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 11,
+      "predicted": 5.25,
+      "baseline": 5.25,
+      "actual": 5.746533333333334
+    },
+    {
+      "doctor": "D02",
+      "session": 11,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 11,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 11,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 0.8428333333333333
+    },
+    {
+      "doctor": "D02",
+      "session": 11,
+      "predicted": 8.416666666666666,
+      "baseline": 12,
+      "actual": 10.321433333333333
+    },
+    {
+      "doctor": "D02",
+      "session": 11,
+      "predicted": 12.65,
+      "baseline": 24,
+      "actual": 15.705916666666667
+    },
+    {
+      "doctor": "D02",
+      "session": 11,
+      "predicted": 18.133333333333333,
+      "baseline": 24,
+      "actual": 30.315416666666668
+    },
+    {
+      "doctor": "D02",
+      "session": 11,
+      "predicted": 18.8,
+      "baseline": 36,
+      "actual": 31.546966666666666
+    },
+    {
+      "doctor": "D02",
+      "session": 11,
+      "predicted": 15.666666666666666,
+      "baseline": 24,
+      "actual": 22.379316666666668
+    },
+    {
+      "doctor": "D02",
+      "session": 11,
+      "predicted": 16.683333333333334,
+      "baseline": 24,
+      "actual": 18.491216666666666
+    },
+    {
+      "doctor": "D02",
+      "session": 11,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 11,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 11,
+      "predicted": 6.7,
+      "baseline": 12,
+      "actual": 9.390683333333333
+    },
+    {
+      "doctor": "D02",
+      "session": 11,
+      "predicted": 11.5,
+      "baseline": 12,
+      "actual": 9.27415
+    },
+    {
+      "doctor": "D02",
+      "session": 11,
+      "predicted": 10.25,
+      "baseline": 12,
+      "actual": 20.62115
+    },
+    {
+      "doctor": "D02",
+      "session": 11,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 12,
+      "predicted": 13.7,
+      "baseline": 13.7,
+      "actual": 14.195166666666667
+    },
+    {
+      "doctor": "D02",
+      "session": 12,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 3.1812
+    },
+    {
+      "doctor": "D02",
+      "session": 12,
+      "predicted": 6.133333333333334,
+      "baseline": 12,
+      "actual": 4.348566666666667
+    },
+    {
+      "doctor": "D02",
+      "session": 12,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 12,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 12,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 12,
+      "predicted": 7.816666666666666,
+      "baseline": 12,
+      "actual": 10.8535
+    },
+    {
+      "doctor": "D02",
+      "session": 12,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 12,
+      "predicted": 7.083333333333333,
+      "baseline": 12,
+      "actual": 15.844016666666667
+    },
+    {
+      "doctor": "D02",
+      "session": 12,
+      "predicted": 10.933333333333334,
+      "baseline": 12,
+      "actual": 36.05073333333333
+    },
+    {
+      "doctor": "D02",
+      "session": 12,
+      "predicted": 2.55,
+      "baseline": 12,
+      "actual": 4.3811
+    },
+    {
+      "doctor": "D02",
+      "session": 12,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 12,
+      "predicted": 8.133333333333333,
+      "baseline": 12,
+      "actual": 18.7204
+    },
+    {
+      "doctor": "D02",
+      "session": 12,
+      "predicted": 5.9,
+      "baseline": 12,
+      "actual": 4.6085
+    },
+    {
+      "doctor": "D02",
+      "session": 13,
+      "predicted": 0.4166666666666667,
+      "baseline": 0.4166666666666667,
+      "actual": 0.9154
+    },
+    {
+      "doctor": "D02",
+      "session": 13,
+      "predicted": 6.8,
+      "baseline": 12,
+      "actual": 3.061
+    },
+    {
+      "doctor": "D02",
+      "session": 13,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 2.96595
+    },
+    {
+      "doctor": "D02",
+      "session": 13,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 13,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 13,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 14.555483333333333
+    },
+    {
+      "doctor": "D02",
+      "session": 13,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 13,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 13,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 0.8941833333333333
+    },
+    {
+      "doctor": "D02",
+      "session": 14,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 14,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 14,
+      "predicted": 10.483333333333333,
+      "baseline": 12,
+      "actual": 16.599433333333334
+    },
+    {
+      "doctor": "D02",
+      "session": 14,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 14,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 14,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 4.442266666666667
+    },
+    {
+      "doctor": "D02",
+      "session": 14,
+      "predicted": 3.466666666666667,
+      "baseline": 12,
+      "actual": 6.49345
+    },
+    {
+      "doctor": "D02",
+      "session": 14,
+      "predicted": 9.583333333333334,
+      "baseline": 12,
+      "actual": 8.217516666666667
+    },
+    {
+      "doctor": "D02",
+      "session": 14,
+      "predicted": 11.15,
+      "baseline": 24,
+      "actual": 13.761583333333334
+    },
+    {
+      "doctor": "D02",
+      "session": 14,
+      "predicted": 9.183333333333334,
+      "baseline": 24,
+      "actual": 16.096816666666665
+    },
+    {
+      "doctor": "D02",
+      "session": 14,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 14,
+      "predicted": 10.75,
+      "baseline": 12,
+      "actual": 6.397966666666667
+    },
+    {
+      "doctor": "D02",
+      "session": 14,
+      "predicted": 9.866666666666667,
+      "baseline": 12,
+      "actual": 7.5154
+    },
+    {
+      "doctor": "D02",
+      "session": 14,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 14,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 15,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 15,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 15,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 15,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 15,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 15,
+      "predicted": 5.25,
+      "baseline": 12,
+      "actual": 1.5861
+    },
+    {
+      "doctor": "D02",
+      "session": 15,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 0.638
+    },
+    {
+      "doctor": "D02",
+      "session": 15,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 15,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 15,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 15,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 15,
+      "predicted": 7.666666666666667,
+      "baseline": 12,
+      "actual": 12.9872
+    },
+    {
+      "doctor": "D02",
+      "session": 15,
+      "predicted": 2.533333333333333,
+      "baseline": 12,
+      "actual": 2.3376166666666665
+    },
+    {
+      "doctor": "D02",
+      "session": 16,
+      "predicted": 7.683333333333334,
+      "baseline": 7.683333333333334,
+      "actual": 8.17835
+    },
+    {
+      "doctor": "D02",
+      "session": 16,
+      "predicted": 3.716666666666667,
+      "baseline": 12,
+      "actual": 3.154533333333333
+    },
+    {
+      "doctor": "D02",
+      "session": 16,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 16,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 16,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 16,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 16,
+      "predicted": 9.15,
+      "baseline": 12,
+      "actual": 8.09905
+    },
+    {
+      "doctor": "D02",
+      "session": 16,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 16,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 0.6333833333333333
+    },
+    {
+      "doctor": "D02",
+      "session": 16,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 16,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 1.7856833333333333
+    },
+    {
+      "doctor": "D02",
+      "session": 16,
+      "predicted": 1.2333333333333334,
+      "baseline": 12,
+      "actual": 3.4727
+    },
+    {
+      "doctor": "D02",
+      "session": 16,
+      "predicted": 9.083333333333334,
+      "baseline": 12,
+      "actual": 11.989116666666666
+    },
+    {
+      "doctor": "D02",
+      "session": 17,
+      "predicted": 9.883333333333333,
+      "baseline": 9.883333333333333,
+      "actual": 10.384483333333334
+    },
+    {
+      "doctor": "D02",
+      "session": 17,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 17,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 17,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 17,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 3.616633333333333
+    },
+    {
+      "doctor": "D02",
+      "session": 17,
+      "predicted": 9.033333333333333,
+      "baseline": 12,
+      "actual": 16.754283333333333
+    },
+    {
+      "doctor": "D02",
+      "session": 17,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 17,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 18.604633333333332
+    },
+    {
+      "doctor": "D02",
+      "session": 17,
+      "predicted": 20.433333333333334,
+      "baseline": 36,
+      "actual": 23.32443333333333
+    },
+    {
+      "doctor": "D02",
+      "session": 17,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 7.435866666666667
+    },
+    {
+      "doctor": "D02",
+      "session": 17,
+      "predicted": 5.616666666666666,
+      "baseline": 12,
+      "actual": 6.52455
+    },
+    {
+      "doctor": "D02",
+      "session": 18,
+      "predicted": 1.8666666666666667,
+      "baseline": 1.8666666666666667,
+      "actual": 2.3733666666666666
+    },
+    {
+      "doctor": "D02",
+      "session": 18,
+      "predicted": 5.6,
+      "baseline": 12,
+      "actual": 1.6404333333333334
+    },
+    {
+      "doctor": "D02",
+      "session": 18,
+      "predicted": 4.283333333333333,
+      "baseline": 12,
+      "actual": 1.3837
+    },
+    {
+      "doctor": "D02",
+      "session": 18,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 18,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 18,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 18,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 18,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 18,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 18,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 18,
+      "predicted": 10.883333333333333,
+      "baseline": 12,
+      "actual": 9.102866666666667
+    },
+    {
+      "doctor": "D02",
+      "session": 18,
+      "predicted": 9.95,
+      "baseline": 9.95,
+      "actual": 21.23305
+    },
+    {
+      "doctor": "D02",
+      "session": 19,
+      "predicted": 13.35,
+      "baseline": 13.35,
+      "actual": 13.843216666666667
+    },
+    {
+      "doctor": "D02",
+      "session": 19,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 19,
+      "predicted": 5.7,
+      "baseline": 12,
+      "actual": 8.168433333333333
+    },
+    {
+      "doctor": "D02",
+      "session": 19,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 19,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 0.93185
+    },
+    {
+      "doctor": "D02",
+      "session": 19,
+      "predicted": 8.233333333333333,
+      "baseline": 12,
+      "actual": 12.76335
+    },
+    {
+      "doctor": "D02",
+      "session": 19,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 19,
+      "predicted": 1.9333333333333333,
+      "baseline": 12,
+      "actual": 6.439883333333333
+    },
+    {
+      "doctor": "D02",
+      "session": 19,
+      "predicted": 9.566666666666666,
+      "baseline": 24,
+      "actual": 12.666316666666667
+    },
+    {
+      "doctor": "D02",
+      "session": 19,
+      "predicted": 4.9,
+      "baseline": 12,
+      "actual": 5.412766666666666
+    },
+    {
+      "doctor": "D02",
+      "session": 19,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 0.8317333333333333
+    },
+    {
+      "doctor": "D02",
+      "session": 19,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 19,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 19,
+      "predicted": 15.733333333333333,
+      "baseline": 24,
+      "actual": 12.370516666666667
+    },
+    {
+      "doctor": "D02",
+      "session": 19,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 20,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 20,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 20,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 20,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 20,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 2.4496166666666666
+    },
+    {
+      "doctor": "D02",
+      "session": 20,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 4.471616666666667
+    },
+    {
+      "doctor": "D02",
+      "session": 20,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 20,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 20,
+      "predicted": 5.416666666666667,
+      "baseline": 12,
+      "actual": 6.7457666666666665
+    },
+    {
+      "doctor": "D02",
+      "session": 20,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 20,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 20,
+      "predicted": 1.7333333333333334,
+      "baseline": 12,
+      "actual": 3.3562333333333334
+    },
+    {
+      "doctor": "D02",
+      "session": 20,
+      "predicted": 5.5,
+      "baseline": 12,
+      "actual": 4.020183333333334
+    },
+    {
+      "doctor": "D02",
+      "session": 21,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 21,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 21,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 21,
+      "predicted": 8.35,
+      "baseline": 12,
+      "actual": 8.336716666666666
+    },
+    {
+      "doctor": "D02",
+      "session": 21,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 21,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 21,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 21,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 21,
+      "predicted": 5.5,
+      "baseline": 12,
+      "actual": 3.2127
+    },
+    {
+      "doctor": "D02",
+      "session": 21,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 21,
+      "predicted": 8.166666666666666,
+      "baseline": 12,
+      "actual": 11.78285
+    },
+    {
+      "doctor": "D02",
+      "session": 22,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 22,
+      "predicted": 6.216666666666667,
+      "baseline": 12,
+      "actual": 10.849516666666666
+    },
+    {
+      "doctor": "D02",
+      "session": 22,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 22,
+      "predicted": 3.966666666666667,
+      "baseline": 12,
+      "actual": 1.1582166666666667
+    },
+    {
+      "doctor": "D02",
+      "session": 22,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 22,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 22,
+      "predicted": 2.0166666666666666,
+      "baseline": 12,
+      "actual": 2.4474833333333335
+    },
+    {
+      "doctor": "D02",
+      "session": 22,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 22,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 22,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 0.8893666666666666
+    },
+    {
+      "doctor": "D02",
+      "session": 22,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 22,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 22,
+      "predicted": 4.866666666666666,
+      "baseline": 12,
+      "actual": 1.80125
+    },
+    {
+      "doctor": "D02",
+      "session": 23,
+      "predicted": 12.2,
+      "baseline": 12.2,
+      "actual": 12.692466666666666
+    },
+    {
+      "doctor": "D02",
+      "session": 23,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 23,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 23,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 23,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 1.1858
+    },
+    {
+      "doctor": "D02",
+      "session": 23,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 23,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 23,
+      "predicted": 10.333333333333334,
+      "baseline": 12,
+      "actual": 8.168
+    },
+    {
+      "doctor": "D02",
+      "session": 23,
+      "predicted": 7.316666666666666,
+      "baseline": 12,
+      "actual": 8.959833333333334
+    },
+    {
+      "doctor": "D02",
+      "session": 23,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 24,
+      "predicted": 1.0666666666666667,
+      "baseline": 1.0666666666666667,
+      "actual": 1.5734333333333332
+    },
+    {
+      "doctor": "D02",
+      "session": 24,
+      "predicted": 2.3,
+      "baseline": 2.3,
+      "actual": 11.115916666666667
+    },
+    {
+      "doctor": "D02",
+      "session": 24,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 24,
+      "predicted": 4.25,
+      "baseline": 12,
+      "actual": 4.39985
+    },
+    {
+      "doctor": "D02",
+      "session": 24,
+      "predicted": 3.75,
+      "baseline": 12,
+      "actual": 2.95475
+    },
+    {
+      "doctor": "D02",
+      "session": 24,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 24,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 24,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 24,
+      "predicted": 7.533333333333333,
+      "baseline": 12,
+      "actual": 12.751516666666667
+    },
+    {
+      "doctor": "D02",
+      "session": 24,
+      "predicted": 8.166666666666666,
+      "baseline": 12,
+      "actual": 8.1771
+    },
+    {
+      "doctor": "D02",
+      "session": 24,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 24,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 24,
+      "predicted": 7.3,
+      "baseline": 12,
+      "actual": 20.0234
+    },
+    {
+      "doctor": "D02",
+      "session": 24,
+      "predicted": 9.4,
+      "baseline": 12,
+      "actual": 8.116633333333333
+    },
+    {
+      "doctor": "D02",
+      "session": 24,
+      "predicted": 5.583333333333333,
+      "baseline": 12,
+      "actual": 11.314983333333334
+    },
+    {
+      "doctor": "D02",
+      "session": 24,
+      "predicted": 12.433333333333334,
+      "baseline": 24,
+      "actual": 35.61695
+    },
+    {
+      "doctor": "D02",
+      "session": 25,
+      "predicted": 2.7,
+      "baseline": 2.7,
+      "actual": 3.1997333333333335
+    },
+    {
+      "doctor": "D02",
+      "session": 25,
+      "predicted": 9.633333333333333,
+      "baseline": 12,
+      "actual": 8.6881
+    },
+    {
+      "doctor": "D02",
+      "session": 25,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 25,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 25,
+      "predicted": 4.6,
+      "baseline": 12,
+      "actual": 4.519866666666666
+    },
+    {
+      "doctor": "D02",
+      "session": 25,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 25,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 25,
+      "predicted": 5.183333333333334,
+      "baseline": 12,
+      "actual": 2.7708833333333334
+    },
+    {
+      "doctor": "D02",
+      "session": 25,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 25,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 25,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 25,
+      "predicted": 16,
+      "baseline": 24,
+      "actual": 16.578583333333334
+    },
+    {
+      "doctor": "D02",
+      "session": 25,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 25,
+      "predicted": 1.5666666666666667,
+      "baseline": 12,
+      "actual": 2.77905
+    },
+    {
+      "doctor": "D02",
+      "session": 26,
+      "predicted": 7.85,
+      "baseline": 12,
+      "actual": 11.710316666666667
+    },
+    {
+      "doctor": "D02",
+      "session": 26,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 3.29255
+    },
+    {
+      "doctor": "D02",
+      "session": 26,
+      "predicted": 9,
+      "baseline": 24,
+      "actual": 15.496833333333333
+    },
+    {
+      "doctor": "D02",
+      "session": 26,
+      "predicted": 9.35,
+      "baseline": 24,
+      "actual": 9.650416666666667
+    },
+    {
+      "doctor": "D02",
+      "session": 26,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 3.3596666666666666
+    },
+    {
+      "doctor": "D02",
+      "session": 26,
+      "predicted": 7.933333333333334,
+      "baseline": 12,
+      "actual": 8.389716666666667
+    },
+    {
+      "doctor": "D02",
+      "session": 26,
+      "predicted": 1.35,
+      "baseline": 12,
+      "actual": 1.7736833333333333
+    },
+    {
+      "doctor": "D02",
+      "session": 26,
+      "predicted": 5.066666666666666,
+      "baseline": 12,
+      "actual": 3.73015
+    },
+    {
+      "doctor": "D02",
+      "session": 26,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 26,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 26,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 26,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 26,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 26,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 26,
+      "predicted": 2.4166666666666665,
+      "baseline": 12,
+      "actual": 1.0197666666666667
+    },
+    {
+      "doctor": "D02",
+      "session": 27,
+      "predicted": 9.816666666666666,
+      "baseline": 9.816666666666666,
+      "actual": 10.317066666666667
+    },
+    {
+      "doctor": "D02",
+      "session": 27,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 27,
+      "predicted": 4.5,
+      "baseline": 12,
+      "actual": 7.12215
+    },
+    {
+      "doctor": "D02",
+      "session": 27,
+      "predicted": 7.466666666666667,
+      "baseline": 12,
+      "actual": 11.5762
+    },
+    {
+      "doctor": "D02",
+      "session": 27,
+      "predicted": 9.416666666666666,
+      "baseline": 24,
+      "actual": 18.17343333333333
+    },
+    {
+      "doctor": "D02",
+      "session": 27,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 27,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 27,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 27,
+      "predicted": 3.4,
+      "baseline": 12,
+      "actual": 1.6674666666666667
+    },
+    {
+      "doctor": "D02",
+      "session": 27,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 27,
+      "predicted": 7.116666666666666,
+      "baseline": 12,
+      "actual": 6.2815666666666665
+    },
+    {
+      "doctor": "D02",
+      "session": 27,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 27,
+      "predicted": 13.933333333333334,
+      "baseline": 24,
+      "actual": 17.78265
+    },
+    {
+      "doctor": "D02",
+      "session": 27,
+      "predicted": 4.933333333333334,
+      "baseline": 12,
+      "actual": 6.192833333333334
+    },
+    {
+      "doctor": "D02",
+      "session": 28,
+      "predicted": 6.15,
+      "baseline": 6.15,
+      "actual": 6.6507
+    },
+    {
+      "doctor": "D02",
+      "session": 28,
+      "predicted": 10.4,
+      "baseline": 12,
+      "actual": 9.189633333333333
+    },
+    {
+      "doctor": "D02",
+      "session": 28,
+      "predicted": 5.933333333333334,
+      "baseline": 12,
+      "actual": 7.2622
+    },
+    {
+      "doctor": "D02",
+      "session": 28,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 28,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 28,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 28,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 28,
+      "predicted": 11.316666666666666,
+      "baseline": 24,
+      "actual": 14.4715
+    },
+    {
+      "doctor": "D02",
+      "session": 28,
+      "predicted": 17.766666666666666,
+      "baseline": 24,
+      "actual": 35.74625
+    },
+    {
+      "doctor": "D02",
+      "session": 28,
+      "predicted": 11.666666666666666,
+      "baseline": 12.583333333333334,
+      "actual": 9.150533333333334
+    },
+    {
+      "doctor": "D02",
+      "session": 28,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 29,
+      "predicted": 20.25,
+      "baseline": 20.25,
+      "actual": 20.753433333333334
+    },
+    {
+      "doctor": "D02",
+      "session": 29,
+      "predicted": 1.2166666666666666,
+      "baseline": 12,
+      "actual": 0.9193833333333333
+    },
+    {
+      "doctor": "D02",
+      "session": 29,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 29,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 4.0177
+    },
+    {
+      "doctor": "D02",
+      "session": 29,
+      "predicted": 11.3,
+      "baseline": 12,
+      "actual": 13.917416666666666
+    },
+    {
+      "doctor": "D02",
+      "session": 29,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 29,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 29,
+      "predicted": 4.95,
+      "baseline": 12,
+      "actual": 3.44785
+    },
+    {
+      "doctor": "D02",
+      "session": 29,
+      "predicted": 10.166666666666666,
+      "baseline": 12,
+      "actual": 9.514333333333333
+    },
+    {
+      "doctor": "D02",
+      "session": 29,
+      "predicted": 8.366666666666667,
+      "baseline": 12,
+      "actual": 7.303883333333333
+    },
+    {
+      "doctor": "D02",
+      "session": 29,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 29,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 29,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D02",
+      "session": 29,
+      "predicted": 11.333333333333334,
+      "baseline": 12,
+      "actual": 12.631616666666666
+    },
+    {
+      "doctor": "D03",
+      "session": 1,
+      "predicted": 11.633333333333333,
+      "baseline": 11.633333333333333,
+      "actual": 12.1261
+    },
+    {
+      "doctor": "D03",
+      "session": 1,
+      "predicted": 3.1666666666666665,
+      "baseline": 12,
+      "actual": 5.87105
+    },
+    {
+      "doctor": "D03",
+      "session": 1,
+      "predicted": 4.3,
+      "baseline": 12,
+      "actual": 7.635816666666667
+    },
+    {
+      "doctor": "D03",
+      "session": 1,
+      "predicted": 18.633333333333333,
+      "baseline": 12,
+      "actual": 17.4302
+    },
+    {
+      "doctor": "D03",
+      "session": 1,
+      "predicted": 13.433333333333334,
+      "baseline": 12,
+      "actual": 23.361716666666666
+    },
+    {
+      "doctor": "D03",
+      "session": 1,
+      "predicted": 20.316666666666666,
+      "baseline": 24,
+      "actual": 12.170083333333332
+    },
+    {
+      "doctor": "D03",
+      "session": 1,
+      "predicted": 27.533333333333335,
+      "baseline": 24,
+      "actual": 37.633633333333336
+    },
+    {
+      "doctor": "D03",
+      "session": 1,
+      "predicted": 29.85,
+      "baseline": 24,
+      "actual": 36.320933333333336
+    },
+    {
+      "doctor": "D03",
+      "session": 1,
+      "predicted": 45.78333333333333,
+      "baseline": 36,
+      "actual": 64.00278333333333
+    },
+    {
+      "doctor": "D03",
+      "session": 1,
+      "predicted": 36.78333333333333,
+      "baseline": 24,
+      "actual": 33.33931666666667
+    },
+    {
+      "doctor": "D03",
+      "session": 1,
+      "predicted": 21.183333333333334,
+      "baseline": 24,
+      "actual": 15.907883333333332
+    },
+    {
+      "doctor": "D03",
+      "session": 1,
+      "predicted": 8.433333333333334,
+      "baseline": 12,
+      "actual": 12.82495
+    },
+    {
+      "doctor": "D03",
+      "session": 2,
+      "predicted": 11.866666666666667,
+      "baseline": 11.866666666666667,
+      "actual": 12.3669
+    },
+    {
+      "doctor": "D03",
+      "session": 2,
+      "predicted": 9.166666666666666,
+      "baseline": 12,
+      "actual": 13.1087
+    },
+    {
+      "doctor": "D03",
+      "session": 2,
+      "predicted": 1.5166666666666666,
+      "baseline": 12,
+      "actual": 5.131166666666667
+    },
+    {
+      "doctor": "D03",
+      "session": 2,
+      "predicted": 4.866666666666666,
+      "baseline": 12,
+      "actual": 5.6024
+    },
+    {
+      "doctor": "D03",
+      "session": 2,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 26.00085
+    },
+    {
+      "doctor": "D03",
+      "session": 2,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 2,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 15.369466666666666
+    },
+    {
+      "doctor": "D03",
+      "session": 2,
+      "predicted": 18.833333333333332,
+      "baseline": 12,
+      "actual": 56.7855
+    },
+    {
+      "doctor": "D03",
+      "session": 2,
+      "predicted": 24.25,
+      "baseline": 17.183333333333334,
+      "actual": 41.468516666666666
+    },
+    {
+      "doctor": "D03",
+      "session": 2,
+      "predicted": 35.81666666666667,
+      "baseline": 24,
+      "actual": 125.08928333333333
+    },
+    {
+      "doctor": "D03",
+      "session": 3,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 3,
+      "predicted": 8.6,
+      "baseline": 12,
+      "actual": 14.92615
+    },
+    {
+      "doctor": "D03",
+      "session": 3,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 3,
+      "predicted": 9.483333333333333,
+      "baseline": 12,
+      "actual": 15.942033333333333
+    },
+    {
+      "doctor": "D03",
+      "session": 3,
+      "predicted": 19.583333333333332,
+      "baseline": 12,
+      "actual": 10.5925
+    },
+    {
+      "doctor": "D03",
+      "session": 3,
+      "predicted": 32.96666666666667,
+      "baseline": 24,
+      "actual": 22.394566666666666
+    },
+    {
+      "doctor": "D03",
+      "session": 3,
+      "predicted": 2.6166666666666667,
+      "baseline": 12,
+      "actual": 13.66285
+    },
+    {
+      "doctor": "D03",
+      "session": 3,
+      "predicted": 7.816666666666666,
+      "baseline": 12,
+      "actual": 15.815083333333334
+    },
+    {
+      "doctor": "D03",
+      "session": 3,
+      "predicted": 20.516666666666666,
+      "baseline": 24,
+      "actual": 28.6698
+    },
+    {
+      "doctor": "D03",
+      "session": 3,
+      "predicted": 11.15,
+      "baseline": 12,
+      "actual": 3.8128166666666665
+    },
+    {
+      "doctor": "D03",
+      "session": 3,
+      "predicted": 12.466666666666667,
+      "baseline": 12,
+      "actual": 11.956816666666667
+    },
+    {
+      "doctor": "D03",
+      "session": 3,
+      "predicted": 2.433333333333333,
+      "baseline": 12,
+      "actual": 1.3115
+    },
+    {
+      "doctor": "D03",
+      "session": 3,
+      "predicted": 27.916666666666668,
+      "baseline": 24,
+      "actual": 52.08003333333333
+    },
+    {
+      "doctor": "D03",
+      "session": 4,
+      "predicted": 6.983333333333333,
+      "baseline": 6.983333333333333,
+      "actual": 7.479133333333333
+    },
+    {
+      "doctor": "D03",
+      "session": 4,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 4,
+      "predicted": 13.066666666666666,
+      "baseline": 12,
+      "actual": 12.361183333333333
+    },
+    {
+      "doctor": "D03",
+      "session": 4,
+      "predicted": 33.88333333333333,
+      "baseline": 36,
+      "actual": 38.09361666666667
+    },
+    {
+      "doctor": "D03",
+      "session": 4,
+      "predicted": 16.733333333333334,
+      "baseline": 24,
+      "actual": 24.305483333333335
+    },
+    {
+      "doctor": "D03",
+      "session": 4,
+      "predicted": 3.433333333333333,
+      "baseline": 12,
+      "actual": 15.1456
+    },
+    {
+      "doctor": "D03",
+      "session": 4,
+      "predicted": 18.316666666666666,
+      "baseline": 12,
+      "actual": 31.8655
+    },
+    {
+      "doctor": "D03",
+      "session": 4,
+      "predicted": 16.933333333333334,
+      "baseline": 12,
+      "actual": 20.87425
+    },
+    {
+      "doctor": "D03",
+      "session": 4,
+      "predicted": 13.6,
+      "baseline": 12,
+      "actual": 7.421616666666667
+    },
+    {
+      "doctor": "D03",
+      "session": 4,
+      "predicted": 15.033333333333333,
+      "baseline": 12,
+      "actual": 30.109166666666667
+    },
+    {
+      "doctor": "D03",
+      "session": 4,
+      "predicted": 12.85,
+      "baseline": 12,
+      "actual": 12.753816666666667
+    },
+    {
+      "doctor": "D03",
+      "session": 4,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 5,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 5,
+      "predicted": 6.416666666666667,
+      "baseline": 12,
+      "actual": 4.5003
+    },
+    {
+      "doctor": "D03",
+      "session": 5,
+      "predicted": 18.716666666666665,
+      "baseline": 12,
+      "actual": 22.38155
+    },
+    {
+      "doctor": "D03",
+      "session": 5,
+      "predicted": 34.1,
+      "baseline": 24,
+      "actual": 38.075266666666664
+    },
+    {
+      "doctor": "D03",
+      "session": 5,
+      "predicted": 58.28333333333333,
+      "baseline": 48,
+      "actual": 66.57446666666667
+    },
+    {
+      "doctor": "D03",
+      "session": 5,
+      "predicted": 62.11666666666667,
+      "baseline": 48,
+      "actual": 56.52948333333333
+    },
+    {
+      "doctor": "D03",
+      "session": 5,
+      "predicted": 70.7,
+      "baseline": 48,
+      "actual": 74.9342
+    },
+    {
+      "doctor": "D03",
+      "session": 5,
+      "predicted": 40.266666666666666,
+      "baseline": 36,
+      "actual": 51.03411666666667
+    },
+    {
+      "doctor": "D03",
+      "session": 5,
+      "predicted": 55.516666666666666,
+      "baseline": 36,
+      "actual": 61.23175
+    },
+    {
+      "doctor": "D03",
+      "session": 5,
+      "predicted": 59.9,
+      "baseline": 48,
+      "actual": 64.4502
+    },
+    {
+      "doctor": "D03",
+      "session": 5,
+      "predicted": 72.13333333333334,
+      "baseline": 48,
+      "actual": 97.68991666666666
+    },
+    {
+      "doctor": "D03",
+      "session": 5,
+      "predicted": 18.566666666666666,
+      "baseline": 12,
+      "actual": 22.67285
+    },
+    {
+      "doctor": "D03",
+      "session": 5,
+      "predicted": 86.88333333333334,
+      "baseline": 60,
+      "actual": 124.65843333333333
+    },
+    {
+      "doctor": "D03",
+      "session": 5,
+      "predicted": 49.53333333333333,
+      "baseline": 36,
+      "actual": 54.02493333333334
+    },
+    {
+      "doctor": "D03",
+      "session": 6,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 6,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 6.1439
+    },
+    {
+      "doctor": "D03",
+      "session": 6,
+      "predicted": 13.983333333333333,
+      "baseline": 12,
+      "actual": 6.949316666666666
+    },
+    {
+      "doctor": "D03",
+      "session": 6,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 21.3362
+    },
+    {
+      "doctor": "D03",
+      "session": 6,
+      "predicted": 11.983333333333333,
+      "baseline": 12,
+      "actual": 9.59095
+    },
+    {
+      "doctor": "D03",
+      "session": 6,
+      "predicted": 17.083333333333332,
+      "baseline": 24,
+      "actual": 23.10735
+    },
+    {
+      "doctor": "D03",
+      "session": 6,
+      "predicted": 39.21666666666667,
+      "baseline": 24,
+      "actual": 34.087833333333336
+    },
+    {
+      "doctor": "D03",
+      "session": 6,
+      "predicted": 17.083333333333332,
+      "baseline": 24,
+      "actual": 19.484716666666667
+    },
+    {
+      "doctor": "D03",
+      "session": 6,
+      "predicted": 19.65,
+      "baseline": 12,
+      "actual": 9.737616666666666
+    },
+    {
+      "doctor": "D03",
+      "session": 6,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 7.7240166666666665
+    },
+    {
+      "doctor": "D03",
+      "session": 6,
+      "predicted": 7.633333333333334,
+      "baseline": 7.633333333333334,
+      "actual": 8.130716666666666
+    },
+    {
+      "doctor": "D03",
+      "session": 6,
+      "predicted": 29.066666666666666,
+      "baseline": 24,
+      "actual": 34.2249
+    },
+    {
+      "doctor": "D03",
+      "session": 7,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 7,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 7,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 5.971616666666667
+    },
+    {
+      "doctor": "D03",
+      "session": 7,
+      "predicted": 2.9166666666666665,
+      "baseline": 12,
+      "actual": 7.415183333333333
+    },
+    {
+      "doctor": "D03",
+      "session": 7,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 7,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 4.6963
+    },
+    {
+      "doctor": "D03",
+      "session": 7,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 7,
+      "predicted": 14.6,
+      "baseline": 12,
+      "actual": 12.574383333333333
+    },
+    {
+      "doctor": "D03",
+      "session": 7,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 49.84426666666667
+    },
+    {
+      "doctor": "D03",
+      "session": 7,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 8,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 8,
+      "predicted": 15.15,
+      "baseline": 12,
+      "actual": 21.865116666666665
+    },
+    {
+      "doctor": "D03",
+      "session": 8,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 8,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 8,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 8,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 8,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 9,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 9,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 9,
+      "predicted": 8.566666666666666,
+      "baseline": 12,
+      "actual": 10.0729
+    },
+    {
+      "doctor": "D03",
+      "session": 9,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 14.91565
+    },
+    {
+      "doctor": "D03",
+      "session": 9,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 9,
+      "predicted": 10.383333333333333,
+      "baseline": 12,
+      "actual": 23.182016666666666
+    },
+    {
+      "doctor": "D03",
+      "session": 9,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 8.137
+    },
+    {
+      "doctor": "D03",
+      "session": 9,
+      "predicted": 18.6,
+      "baseline": 24,
+      "actual": 37.095
+    },
+    {
+      "doctor": "D03",
+      "session": 10,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 5.098183333333333
+    },
+    {
+      "doctor": "D03",
+      "session": 10,
+      "predicted": 14.733333333333333,
+      "baseline": 12,
+      "actual": 17.6325
+    },
+    {
+      "doctor": "D03",
+      "session": 10,
+      "predicted": 27.116666666666667,
+      "baseline": 24,
+      "actual": 22.5988
+    },
+    {
+      "doctor": "D03",
+      "session": 10,
+      "predicted": 10.683333333333334,
+      "baseline": 12,
+      "actual": 37.471583333333335
+    },
+    {
+      "doctor": "D03",
+      "session": 10,
+      "predicted": 32.13333333333333,
+      "baseline": 24,
+      "actual": 33.69245
+    },
+    {
+      "doctor": "D03",
+      "session": 10,
+      "predicted": 38.233333333333334,
+      "baseline": 24,
+      "actual": 54.1016
+    },
+    {
+      "doctor": "D03",
+      "session": 10,
+      "predicted": 27.266666666666666,
+      "baseline": 24,
+      "actual": 39.30955
+    },
+    {
+      "doctor": "D03",
+      "session": 10,
+      "predicted": 43.5,
+      "baseline": 36,
+      "actual": 52.62311666666667
+    },
+    {
+      "doctor": "D03",
+      "session": 10,
+      "predicted": 15.583333333333334,
+      "baseline": 12,
+      "actual": 4.256983333333333
+    },
+    {
+      "doctor": "D03",
+      "session": 10,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 10,
+      "predicted": 9.316666666666666,
+      "baseline": 12,
+      "actual": 13.792416666666666
+    },
+    {
+      "doctor": "D03",
+      "session": 10,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 2.8337833333333333
+    },
+    {
+      "doctor": "D03",
+      "session": 11,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 11,
+      "predicted": 9.733333333333333,
+      "baseline": 12,
+      "actual": 8.446416666666666
+    },
+    {
+      "doctor": "D03",
+      "session": 11,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 11,
+      "predicted": 24.116666666666667,
+      "baseline": 24,
+      "actual": 25.479266666666668
+    },
+    {
+      "doctor": "D03",
+      "session": 11,
+      "predicted": 17.366666666666667,
+      "baseline": 24,
+      "actual": 26.155066666666666
+    },
+    {
+      "doctor": "D03",
+      "session": 11,
+      "predicted": 32.4,
+      "baseline": 36,
+      "actual": 46.30413333333333
+    },
+    {
+      "doctor": "D03",
+      "session": 11,
+      "predicted": 37.95,
+      "baseline": 36,
+      "actual": 48.91738333333333
+    },
+    {
+      "doctor": "D03",
+      "session": 11,
+      "predicted": 48.1,
+      "baseline": 48,
+      "actual": 68.62906666666667
+    },
+    {
+      "doctor": "D03",
+      "session": 11,
+      "predicted": 47.31666666666667,
+      "baseline": 36,
+      "actual": 66.51345
+    },
+    {
+      "doctor": "D03",
+      "session": 11,
+      "predicted": 15.583333333333334,
+      "baseline": 12,
+      "actual": 15.676166666666667
+    },
+    {
+      "doctor": "D03",
+      "session": 11,
+      "predicted": 49.3,
+      "baseline": 48,
+      "actual": 129.31111666666666
+    },
+    {
+      "doctor": "D03",
+      "session": 11,
+      "predicted": 36.28333333333333,
+      "baseline": 36,
+      "actual": 62.46713333333334
+    },
+    {
+      "doctor": "D03",
+      "session": 12,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 12,
+      "predicted": 9.783333333333333,
+      "baseline": 12,
+      "actual": 9.243683333333333
+    },
+    {
+      "doctor": "D03",
+      "session": 12,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 12,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 12,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 12,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 12,
+      "predicted": 5.816666666666666,
+      "baseline": 12,
+      "actual": 7.6226666666666665
+    },
+    {
+      "doctor": "D03",
+      "session": 12,
+      "predicted": 6.233333333333333,
+      "baseline": 12,
+      "actual": 28.24951666666667
+    },
+    {
+      "doctor": "D03",
+      "session": 12,
+      "predicted": 4.316666666666666,
+      "baseline": 12,
+      "actual": 1.9864
+    },
+    {
+      "doctor": "D03",
+      "session": 12,
+      "predicted": 4.45,
+      "baseline": 12,
+      "actual": 7.036383333333333
+    },
+    {
+      "doctor": "D03",
+      "session": 12,
+      "predicted": 2.65,
+      "baseline": 12,
+      "actual": 8.602933333333333
+    },
+    {
+      "doctor": "D03",
+      "session": 13,
+      "predicted": 7.216666666666667,
+      "baseline": 7.216666666666667,
+      "actual": 7.714716666666667
+    },
+    {
+      "doctor": "D03",
+      "session": 13,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 9.439016666666667
+    },
+    {
+      "doctor": "D03",
+      "session": 13,
+      "predicted": 23.833333333333332,
+      "baseline": 24,
+      "actual": 49.5631
+    },
+    {
+      "doctor": "D03",
+      "session": 13,
+      "predicted": 18.416666666666668,
+      "baseline": 24,
+      "actual": 32.345683333333334
+    },
+    {
+      "doctor": "D03",
+      "session": 13,
+      "predicted": 40.36666666666667,
+      "baseline": 36,
+      "actual": 33.208016666666666
+    },
+    {
+      "doctor": "D03",
+      "session": 13,
+      "predicted": 24.083333333333332,
+      "baseline": 24,
+      "actual": 10.732966666666666
+    },
+    {
+      "doctor": "D03",
+      "session": 13,
+      "predicted": 32.15,
+      "baseline": 24,
+      "actual": 50.054833333333335
+    },
+    {
+      "doctor": "D03",
+      "session": 13,
+      "predicted": 40.86666666666667,
+      "baseline": 36,
+      "actual": 50.74916666666667
+    },
+    {
+      "doctor": "D03",
+      "session": 13,
+      "predicted": 26.183333333333334,
+      "baseline": 24,
+      "actual": 43.1029
+    },
+    {
+      "doctor": "D03",
+      "session": 13,
+      "predicted": 33.86666666666667,
+      "baseline": 36,
+      "actual": 43.010133333333336
+    },
+    {
+      "doctor": "D03",
+      "session": 13,
+      "predicted": 18.416666666666668,
+      "baseline": 24,
+      "actual": 44.44425
+    },
+    {
+      "doctor": "D03",
+      "session": 13,
+      "predicted": 10.733333333333333,
+      "baseline": 12,
+      "actual": 5.431333333333333
+    },
+    {
+      "doctor": "D03",
+      "session": 13,
+      "predicted": 2.9,
+      "baseline": 12,
+      "actual": 38.18761666666666
+    },
+    {
+      "doctor": "D03",
+      "session": 14,
+      "predicted": 3.566666666666667,
+      "baseline": 3.566666666666667,
+      "actual": 4.059983333333333
+    },
+    {
+      "doctor": "D03",
+      "session": 14,
+      "predicted": 4.25,
+      "baseline": 12,
+      "actual": 16.221233333333334
+    },
+    {
+      "doctor": "D03",
+      "session": 14,
+      "predicted": 14.566666666666666,
+      "baseline": 12,
+      "actual": 14.601016666666666
+    },
+    {
+      "doctor": "D03",
+      "session": 14,
+      "predicted": 46.233333333333334,
+      "baseline": 36,
+      "actual": 44.67381666666667
+    },
+    {
+      "doctor": "D03",
+      "session": 14,
+      "predicted": 49.166666666666664,
+      "baseline": 36,
+      "actual": 53.51606666666667
+    },
+    {
+      "doctor": "D03",
+      "session": 14,
+      "predicted": 74.86666666666666,
+      "baseline": 48,
+      "actual": 69.42828333333334
+    },
+    {
+      "doctor": "D03",
+      "session": 14,
+      "predicted": 52.68333333333333,
+      "baseline": 48,
+      "actual": 73.24243333333334
+    },
+    {
+      "doctor": "D03",
+      "session": 14,
+      "predicted": 67.3,
+      "baseline": 48,
+      "actual": 87.69868333333334
+    },
+    {
+      "doctor": "D03",
+      "session": 14,
+      "predicted": 40.56666666666667,
+      "baseline": 36,
+      "actual": 48.034
+    },
+    {
+      "doctor": "D03",
+      "session": 14,
+      "predicted": 44.36666666666667,
+      "baseline": 36,
+      "actual": 48.2419
+    },
+    {
+      "doctor": "D03",
+      "session": 14,
+      "predicted": 31.55,
+      "baseline": 36,
+      "actual": 137.81773333333334
+    },
+    {
+      "doctor": "D03",
+      "session": 14,
+      "predicted": 20.466666666666665,
+      "baseline": 24,
+      "actual": 87.37976666666667
+    },
+    {
+      "doctor": "D03",
+      "session": 14,
+      "predicted": 3.65,
+      "baseline": 3.65,
+      "actual": 28.46695
+    },
+    {
+      "doctor": "D03",
+      "session": 15,
+      "predicted": 15.7,
+      "baseline": 15.7,
+      "actual": 16.19996666666667
+    },
+    {
+      "doctor": "D03",
+      "session": 15,
+      "predicted": 17.45,
+      "baseline": 12,
+      "actual": 16.227716666666666
+    },
+    {
+      "doctor": "D03",
+      "session": 15,
+      "predicted": 26.116666666666667,
+      "baseline": 24,
+      "actual": 21.2253
+    },
+    {
+      "doctor": "D03",
+      "session": 15,
+      "predicted": 42.666666666666664,
+      "baseline": 36,
+      "actual": 34.827933333333334
+    },
+    {
+      "doctor": "D03",
+      "session": 15,
+      "predicted": 43.8,
+      "baseline": 36,
+      "actual": 40.49211666666667
+    },
+    {
+      "doctor": "D03",
+      "session": 15,
+      "predicted": 48.86666666666667,
+      "baseline": 36,
+      "actual": 43.957683333333335
+    },
+    {
+      "doctor": "D03",
+      "session": 15,
+      "predicted": 30.483333333333334,
+      "baseline": 24,
+      "actual": 21.57135
+    },
+    {
+      "doctor": "D03",
+      "session": 15,
+      "predicted": 14.833333333333334,
+      "baseline": 12,
+      "actual": 12.075933333333333
+    },
+    {
+      "doctor": "D03",
+      "session": 15,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 15,
+      "predicted": 19.35,
+      "baseline": 12,
+      "actual": 42.600316666666664
+    },
+    {
+      "doctor": "D03",
+      "session": 15,
+      "predicted": 49.483333333333334,
+      "baseline": 36,
+      "actual": 84.85225
+    },
+    {
+      "doctor": "D03",
+      "session": 16,
+      "predicted": 5.85,
+      "baseline": 5.85,
+      "actual": 6.350033333333333
+    },
+    {
+      "doctor": "D03",
+      "session": 16,
+      "predicted": 3.1,
+      "baseline": 12,
+      "actual": 5.343
+    },
+    {
+      "doctor": "D03",
+      "session": 16,
+      "predicted": 5.85,
+      "baseline": 12,
+      "actual": 26.750333333333334
+    },
+    {
+      "doctor": "D03",
+      "session": 16,
+      "predicted": 9.833333333333334,
+      "baseline": 12,
+      "actual": 6.166883333333334
+    },
+    {
+      "doctor": "D03",
+      "session": 16,
+      "predicted": 29.3,
+      "baseline": 24,
+      "actual": 13.050666666666666
+    },
+    {
+      "doctor": "D03",
+      "session": 16,
+      "predicted": 7.016666666666667,
+      "baseline": 12,
+      "actual": 13.047166666666667
+    },
+    {
+      "doctor": "D03",
+      "session": 16,
+      "predicted": 12.383333333333333,
+      "baseline": 12,
+      "actual": 15.406583333333334
+    },
+    {
+      "doctor": "D03",
+      "session": 16,
+      "predicted": 11.633333333333333,
+      "baseline": 12,
+      "actual": 19.83655
+    },
+    {
+      "doctor": "D03",
+      "session": 16,
+      "predicted": 4.216666666666667,
+      "baseline": 12,
+      "actual": 2.1582333333333334
+    },
+    {
+      "doctor": "D03",
+      "session": 16,
+      "predicted": 10.933333333333334,
+      "baseline": 12,
+      "actual": 25.245833333333334
+    },
+    {
+      "doctor": "D03",
+      "session": 16,
+      "predicted": 22.683333333333334,
+      "baseline": 24,
+      "actual": 30.77545
+    },
+    {
+      "doctor": "D03",
+      "session": 16,
+      "predicted": 15.933333333333334,
+      "baseline": 12,
+      "actual": 14.415016666666666
+    },
+    {
+      "doctor": "D03",
+      "session": 16,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 0.7956166666666666
+    },
+    {
+      "doctor": "D03",
+      "session": 17,
+      "predicted": 2.316666666666667,
+      "baseline": 2.316666666666667,
+      "actual": 2.808666666666667
+    },
+    {
+      "doctor": "D03",
+      "session": 17,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 17,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 17,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 1.8498166666666667
+    },
+    {
+      "doctor": "D03",
+      "session": 17,
+      "predicted": 12.633333333333333,
+      "baseline": 12,
+      "actual": 27.247916666666665
+    },
+    {
+      "doctor": "D03",
+      "session": 17,
+      "predicted": 16.683333333333334,
+      "baseline": 24,
+      "actual": 29.789816666666667
+    },
+    {
+      "doctor": "D03",
+      "session": 17,
+      "predicted": 22.7,
+      "baseline": 24,
+      "actual": 45.087633333333336
+    },
+    {
+      "doctor": "D03",
+      "session": 17,
+      "predicted": 32.233333333333334,
+      "baseline": 36,
+      "actual": 51.47018333333333
+    },
+    {
+      "doctor": "D03",
+      "session": 17,
+      "predicted": 58.88333333333333,
+      "baseline": 48,
+      "actual": 69.71103333333333
+    },
+    {
+      "doctor": "D03",
+      "session": 17,
+      "predicted": 69.38333333333334,
+      "baseline": 48,
+      "actual": 67.23285
+    },
+    {
+      "doctor": "D03",
+      "session": 17,
+      "predicted": 32.61666666666667,
+      "baseline": 24,
+      "actual": 41.85573333333333
+    },
+    {
+      "doctor": "D03",
+      "session": 17,
+      "predicted": 13.816666666666666,
+      "baseline": 12,
+      "actual": 18.11565
+    },
+    {
+      "doctor": "D03",
+      "session": 17,
+      "predicted": 32.233333333333334,
+      "baseline": 36,
+      "actual": 84.31626666666666
+    },
+    {
+      "doctor": "D03",
+      "session": 18,
+      "predicted": 11.883333333333333,
+      "baseline": 11.883333333333333,
+      "actual": 12.377
+    },
+    {
+      "doctor": "D03",
+      "session": 18,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 18,
+      "predicted": 3.35,
+      "baseline": 12,
+      "actual": 18.0227
+    },
+    {
+      "doctor": "D03",
+      "session": 18,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 18,
+      "predicted": 10.85,
+      "baseline": 12,
+      "actual": 11.971216666666667
+    },
+    {
+      "doctor": "D03",
+      "session": 18,
+      "predicted": 25.933333333333334,
+      "baseline": 24,
+      "actual": 24.70853333333333
+    },
+    {
+      "doctor": "D03",
+      "session": 18,
+      "predicted": 5.7,
+      "baseline": 12,
+      "actual": 7.079416666666667
+    },
+    {
+      "doctor": "D03",
+      "session": 18,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 18,
+      "predicted": 35.2,
+      "baseline": 36,
+      "actual": 38.40606666666667
+    },
+    {
+      "doctor": "D03",
+      "session": 18,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 18,
+      "predicted": 39.3,
+      "baseline": 36,
+      "actual": 40.97155
+    },
+    {
+      "doctor": "D03",
+      "session": 19,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 19,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 19,
+      "predicted": 7.433333333333334,
+      "baseline": 12,
+      "actual": 6.335333333333334
+    },
+    {
+      "doctor": "D03",
+      "session": 19,
+      "predicted": 3.1166666666666667,
+      "baseline": 12,
+      "actual": 4.79495
+    },
+    {
+      "doctor": "D03",
+      "session": 19,
+      "predicted": 5.433333333333334,
+      "baseline": 12,
+      "actual": 8.1616
+    },
+    {
+      "doctor": "D03",
+      "session": 19,
+      "predicted": 10.866666666666667,
+      "baseline": 12,
+      "actual": 9.491166666666667
+    },
+    {
+      "doctor": "D03",
+      "session": 19,
+      "predicted": 10.733333333333333,
+      "baseline": 12,
+      "actual": 51.69336666666667
+    },
+    {
+      "doctor": "D03",
+      "session": 19,
+      "predicted": 32.9,
+      "baseline": 36,
+      "actual": 55.48396666666667
+    },
+    {
+      "doctor": "D03",
+      "session": 19,
+      "predicted": 55.6,
+      "baseline": 48,
+      "actual": 74.7498
+    },
+    {
+      "doctor": "D03",
+      "session": 19,
+      "predicted": 62.03333333333333,
+      "baseline": 48,
+      "actual": 66.16198333333334
+    },
+    {
+      "doctor": "D03",
+      "session": 19,
+      "predicted": 68.93333333333334,
+      "baseline": 48,
+      "actual": 74.99828333333333
+    },
+    {
+      "doctor": "D03",
+      "session": 19,
+      "predicted": 10.283333333333333,
+      "baseline": 12,
+      "actual": 28.431366666666666
+    },
+    {
+      "doctor": "D03",
+      "session": 19,
+      "predicted": 40.31666666666667,
+      "baseline": 36,
+      "actual": 87.83843333333333
+    },
+    {
+      "doctor": "D03",
+      "session": 19,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 19,
+      "predicted": 48.85,
+      "baseline": 48,
+      "actual": 127.3389
+    },
+    {
+      "doctor": "D03",
+      "session": 20,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 20,
+      "predicted": 6.833333333333333,
+      "baseline": 12,
+      "actual": 0.5010666666666667
+    },
+    {
+      "doctor": "D03",
+      "session": 20,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 20,
+      "predicted": 7.466666666666667,
+      "baseline": 12,
+      "actual": 4.235133333333334
+    },
+    {
+      "doctor": "D03",
+      "session": 20,
+      "predicted": 12.783333333333333,
+      "baseline": 12,
+      "actual": 14.378466666666666
+    },
+    {
+      "doctor": "D03",
+      "session": 20,
+      "predicted": 12.466666666666667,
+      "baseline": 12,
+      "actual": 18.795466666666666
+    },
+    {
+      "doctor": "D03",
+      "session": 20,
+      "predicted": 19.1,
+      "baseline": 24,
+      "actual": 18.658383333333333
+    },
+    {
+      "doctor": "D03",
+      "session": 20,
+      "predicted": 25.5,
+      "baseline": 24,
+      "actual": 20.0119
+    },
+    {
+      "doctor": "D03",
+      "session": 20,
+      "predicted": 9.483333333333333,
+      "baseline": 12,
+      "actual": 7.26275
+    },
+    {
+      "doctor": "D03",
+      "session": 20,
+      "predicted": 29.083333333333332,
+      "baseline": 24,
+      "actual": 66.05736666666667
+    },
+    {
+      "doctor": "D03",
+      "session": 20,
+      "predicted": 15.233333333333333,
+      "baseline": 12,
+      "actual": 10.967916666666667
+    },
+    {
+      "doctor": "D03",
+      "session": 20,
+      "predicted": 16.133333333333333,
+      "baseline": 12,
+      "actual": 50.93913333333333
+    },
+    {
+      "doctor": "D03",
+      "session": 21,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 21,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 21,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 0.6505333333333333
+    },
+    {
+      "doctor": "D03",
+      "session": 21,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 21,
+      "predicted": 8.316666666666666,
+      "baseline": 12,
+      "actual": 16.976383333333334
+    },
+    {
+      "doctor": "D03",
+      "session": 21,
+      "predicted": 12.716666666666667,
+      "baseline": 12,
+      "actual": 14.726383333333333
+    },
+    {
+      "doctor": "D03",
+      "session": 21,
+      "predicted": 14.85,
+      "baseline": 12,
+      "actual": 9.441783333333333
+    },
+    {
+      "doctor": "D03",
+      "session": 21,
+      "predicted": 1.8833333333333333,
+      "baseline": 12,
+      "actual": 6.5587333333333335
+    },
+    {
+      "doctor": "D03",
+      "session": 21,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 21,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 21,
+      "predicted": 10.5,
+      "baseline": 12,
+      "actual": 6.816283333333334
+    },
+    {
+      "doctor": "D03",
+      "session": 22,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 22,
+      "predicted": 2.4166666666666665,
+      "baseline": 12,
+      "actual": 14.675233333333333
+    },
+    {
+      "doctor": "D03",
+      "session": 22,
+      "predicted": 5.116666666666666,
+      "baseline": 12,
+      "actual": 13.599483333333334
+    },
+    {
+      "doctor": "D03",
+      "session": 22,
+      "predicted": 17.1,
+      "baseline": 24,
+      "actual": 24.724516666666666
+    },
+    {
+      "doctor": "D03",
+      "session": 22,
+      "predicted": 21.55,
+      "baseline": 24,
+      "actual": 15.16715
+    },
+    {
+      "doctor": "D03",
+      "session": 22,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 22,
+      "predicted": 6.583333333333333,
+      "baseline": 12,
+      "actual": 8.228116666666667
+    },
+    {
+      "doctor": "D03",
+      "session": 22,
+      "predicted": 2.5833333333333335,
+      "baseline": 12,
+      "actual": 11.692633333333333
+    },
+    {
+      "doctor": "D03",
+      "session": 22,
+      "predicted": 12.75,
+      "baseline": 12,
+      "actual": 14.9249
+    },
+    {
+      "doctor": "D03",
+      "session": 22,
+      "predicted": 10.866666666666667,
+      "baseline": 12,
+      "actual": 14.906066666666666
+    },
+    {
+      "doctor": "D03",
+      "session": 22,
+      "predicted": 17.366666666666667,
+      "baseline": 24,
+      "actual": 20.540466666666667
+    },
+    {
+      "doctor": "D03",
+      "session": 23,
+      "predicted": 13.116666666666667,
+      "baseline": 13.116666666666667,
+      "actual": 13.609766666666667
+    },
+    {
+      "doctor": "D03",
+      "session": 23,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 23,
+      "predicted": 17.483333333333334,
+      "baseline": 12,
+      "actual": 15.941083333333333
+    },
+    {
+      "doctor": "D03",
+      "session": 23,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 23,
+      "predicted": 11.566666666666666,
+      "baseline": 12,
+      "actual": 4.270766666666667
+    },
+    {
+      "doctor": "D03",
+      "session": 23,
+      "predicted": 15.783333333333333,
+      "baseline": 12,
+      "actual": 27.055633333333333
+    },
+    {
+      "doctor": "D03",
+      "session": 23,
+      "predicted": 16.85,
+      "baseline": 24,
+      "actual": 30.774833333333333
+    },
+    {
+      "doctor": "D03",
+      "session": 23,
+      "predicted": 32.8,
+      "baseline": 36,
+      "actual": 27.160883333333334
+    },
+    {
+      "doctor": "D03",
+      "session": 23,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 2.3343333333333334
+    },
+    {
+      "doctor": "D03",
+      "session": 23,
+      "predicted": 12.4,
+      "baseline": 12,
+      "actual": 5.1661166666666665
+    },
+    {
+      "doctor": "D03",
+      "session": 23,
+      "predicted": 3.2666666666666666,
+      "baseline": 12,
+      "actual": 1.9058
+    },
+    {
+      "doctor": "D03",
+      "session": 23,
+      "predicted": 18.783333333333335,
+      "baseline": 24,
+      "actual": 66.89336666666667
+    },
+    {
+      "doctor": "D03",
+      "session": 24,
+      "predicted": 1.85,
+      "baseline": 1.85,
+      "actual": 2.34335
+    },
+    {
+      "doctor": "D03",
+      "session": 24,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 9.102466666666666
+    },
+    {
+      "doctor": "D03",
+      "session": 24,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 24,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 24,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 24,
+      "predicted": 12.516666666666667,
+      "baseline": 12,
+      "actual": 15.469783333333334
+    },
+    {
+      "doctor": "D03",
+      "session": 24,
+      "predicted": 22.3,
+      "baseline": 24,
+      "actual": 28.480716666666666
+    },
+    {
+      "doctor": "D03",
+      "session": 24,
+      "predicted": 12.866666666666667,
+      "baseline": 12,
+      "actual": 14.47115
+    },
+    {
+      "doctor": "D03",
+      "session": 24,
+      "predicted": 10.25,
+      "baseline": 12,
+      "actual": 3.814983333333333
+    },
+    {
+      "doctor": "D03",
+      "session": 24,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 25,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 25,
+      "predicted": 15.316666666666666,
+      "baseline": 12,
+      "actual": 14.195933333333333
+    },
+    {
+      "doctor": "D03",
+      "session": 25,
+      "predicted": 24.05,
+      "baseline": 24,
+      "actual": 35.16186666666667
+    },
+    {
+      "doctor": "D03",
+      "session": 25,
+      "predicted": 33.733333333333334,
+      "baseline": 36,
+      "actual": 53.48985
+    },
+    {
+      "doctor": "D03",
+      "session": 25,
+      "predicted": 20.8,
+      "baseline": 24,
+      "actual": 24.23075
+    },
+    {
+      "doctor": "D03",
+      "session": 25,
+      "predicted": 20.016666666666666,
+      "baseline": 24,
+      "actual": 28.5743
+    },
+    {
+      "doctor": "D03",
+      "session": 25,
+      "predicted": 17.65,
+      "baseline": 12,
+      "actual": 9.93995
+    },
+    {
+      "doctor": "D03",
+      "session": 25,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 25,
+      "predicted": 11.85,
+      "baseline": 12,
+      "actual": 14.855416666666667
+    },
+    {
+      "doctor": "D03",
+      "session": 25,
+      "predicted": 32.016666666666666,
+      "baseline": 24,
+      "actual": 62.792966666666665
+    },
+    {
+      "doctor": "D03",
+      "session": 26,
+      "predicted": 5.183333333333334,
+      "baseline": 5.183333333333334,
+      "actual": 5.67575
+    },
+    {
+      "doctor": "D03",
+      "session": 26,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 26,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 26,
+      "predicted": 5.466666666666667,
+      "baseline": 12,
+      "actual": 30.022266666666667
+    },
+    {
+      "doctor": "D03",
+      "session": 26,
+      "predicted": 26.983333333333334,
+      "baseline": 24,
+      "actual": 27.698933333333333
+    },
+    {
+      "doctor": "D03",
+      "session": 26,
+      "predicted": 41.78333333333333,
+      "baseline": 36,
+      "actual": 43.6926
+    },
+    {
+      "doctor": "D03",
+      "session": 26,
+      "predicted": 48.1,
+      "baseline": 36,
+      "actual": 48.57458333333334
+    },
+    {
+      "doctor": "D03",
+      "session": 26,
+      "predicted": 43.916666666666664,
+      "baseline": 36,
+      "actual": 61.0978
+    },
+    {
+      "doctor": "D03",
+      "session": 26,
+      "predicted": 45.93333333333333,
+      "baseline": 36,
+      "actual": 91.01855
+    },
+    {
+      "doctor": "D03",
+      "session": 26,
+      "predicted": 87.55,
+      "baseline": 60,
+      "actual": 95.72973333333333
+    },
+    {
+      "doctor": "D03",
+      "session": 26,
+      "predicted": 74.66666666666667,
+      "baseline": 60,
+      "actual": 96.2026
+    },
+    {
+      "doctor": "D03",
+      "session": 26,
+      "predicted": 80.76666666666667,
+      "baseline": 60,
+      "actual": 93.76445
+    },
+    {
+      "doctor": "D03",
+      "session": 26,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 1.2622666666666666
+    },
+    {
+      "doctor": "D03",
+      "session": 26,
+      "predicted": 28.75,
+      "baseline": 24,
+      "actual": 17.219516666666667
+    },
+    {
+      "doctor": "D03",
+      "session": 26,
+      "predicted": 35.53333333333333,
+      "baseline": 24,
+      "actual": 40.16155
+    },
+    {
+      "doctor": "D03",
+      "session": 27,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 27,
+      "predicted": 8.583333333333334,
+      "baseline": 12,
+      "actual": 0.8693166666666666
+    },
+    {
+      "doctor": "D03",
+      "session": 27,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 2.710566666666667
+    },
+    {
+      "doctor": "D03",
+      "session": 27,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 27,
+      "predicted": 4.883333333333334,
+      "baseline": 12,
+      "actual": 13.09145
+    },
+    {
+      "doctor": "D03",
+      "session": 27,
+      "predicted": 11.633333333333333,
+      "baseline": 12,
+      "actual": 8.114933333333333
+    },
+    {
+      "doctor": "D03",
+      "session": 27,
+      "predicted": 6.633333333333334,
+      "baseline": 12,
+      "actual": 7.11425
+    },
+    {
+      "doctor": "D03",
+      "session": 27,
+      "predicted": 14.766666666666667,
+      "baseline": 12,
+      "actual": 9.699616666666667
+    },
+    {
+      "doctor": "D03",
+      "session": 27,
+      "predicted": 5.9,
+      "baseline": 12,
+      "actual": 3.8398166666666667
+    },
+    {
+      "doctor": "D03",
+      "session": 28,
+      "predicted": 4.85,
+      "baseline": 4.85,
+      "actual": 5.352916666666666
+    },
+    {
+      "doctor": "D03",
+      "session": 28,
+      "predicted": 6.2,
+      "baseline": 12,
+      "actual": 28.02045
+    },
+    {
+      "doctor": "D03",
+      "session": 28,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 28,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 5.7767333333333335
+    },
+    {
+      "doctor": "D03",
+      "session": 28,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 28,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 28,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 1.3978666666666666
+    },
+    {
+      "doctor": "D03",
+      "session": 28,
+      "predicted": 14.716666666666667,
+      "baseline": 12,
+      "actual": 48.27556666666667
+    },
+    {
+      "doctor": "D03",
+      "session": 29,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 29,
+      "predicted": 0,
+      "baseline": 0,
+      "actual": 0.5
+    },
+    {
+      "doctor": "D03",
+      "session": 29,
+      "predicted": 17,
+      "baseline": 12,
+      "actual": 45.87565
+    },
+    {
+      "doctor": "D03",
+      "session": 29,
+      "predicted": 28.55,
+      "baseline": 24,
+      "actual": 58.49551666666667
+    },
+    {
+      "doctor": "D03",
+      "session": 29,
+      "predicted": 32.666666666666664,
+      "baseline": 36,
+      "actual": 62.7881
+    },
+    {
+      "doctor": "D03",
+      "session": 29,
+      "predicted": 48.5,
+      "baseline": 48,
+      "actual": 74.1037
+    },
+    {
+      "doctor": "D03",
+      "session": 29,
+      "predicted": 38.166666666666664,
+      "baseline": 36,
+      "actual": 65.1379
+    },
+    {
+      "doctor": "D03",
+      "session": 29,
+      "predicted": 19.733333333333334,
+      "baseline": 24,
+      "actual": 64.4732
+    },
+    {
+      "doctor": "D03",
+      "session": 29,
+      "predicted": 34.78333333333333,
+      "baseline": 36,
+      "actual": 53.08725
+    },
+    {
+      "doctor": "D03",
+      "session": 29,
+      "predicted": 35.583333333333336,
+      "baseline": 36,
+      "actual": 59.73701666666667
+    },
+    {
+      "doctor": "D03",
+      "session": 29,
+      "predicted": 1,
+      "baseline": 12,
+      "actual": 0.8951833333333333
+    },
+    {
+      "doctor": "D03",
+      "session": 29,
+      "predicted": 13.316666666666666,
+      "baseline": 12,
+      "actual": 14.415933333333333
+    },
+    {
+      "doctor": "D03",
+      "session": 29,
+      "predicted": 21.9,
+      "baseline": 24,
+      "actual": 21.02025
+    }
+  ]
+}
